@@ -22,9 +22,9 @@ color:
     - '#f1db32'
     - '#95adca'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: null
