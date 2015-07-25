@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.74999
-typography_spectrum: 0.65433
+layout_spectrum: 0.8
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -15,17 +15,9 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#708837'
-    - '#391408'
-    - '#9a352d'
-    - '#f1db32'
-    - '#95adca'
+  brandColors: []
   brandStrength: 0
-  lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose:
-  - name: engagement
-    item: 84d31d0d-b6d3-4e64-bd9b-9067a578c8cd
-    url: null
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
