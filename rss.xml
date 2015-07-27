@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jul 2015 20:15:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fall in love with these gorgeous 8-bit GIFs of Japan]]></title>
+            <description><![CDATA[<article><h1>Fall in love with these gorgeous 8-bit GIFs of Japan</h1><p>Japan is a country caught between two worlds, blending together its feudal architecture and traditional ways with the fast-paced technology that is so core to its modern identity. Somehow, the series of GIFs developed by Tumblr user 1041uuu captures the beauty and dichotomy of Japanese everyday life.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nmvrs6ubl71qze3hdo1_r1_500.gif"></article>]]></description>
+            <link>http://thenextweb.com/shareables/2015/07/27/fall-in-love-with-these-gorgeous-8-bit-gifs-of-japan/</link>
+            <guid isPermaLink="false">58385eee-5c44-4b2a-9147-0713509afe2d</guid>
+            <pubDate>Mon, 27 Jul 2015 20:15:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
