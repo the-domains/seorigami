@@ -40,15 +40,15 @@ datePublished: '2015-07-27T19:02:11.203Z'
 title: Whitespace wars
 tags:
   - Design
+dateModified: '2015-07-27T19:03:38.548Z'
+sourcePath: _posts/2015-07-27-whitespace-wars.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'http://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-dateModified: '2015-07-27T19:02:11.203Z'
-sourcePath: _posts/2015-07-27-whitespace-wars.md
-published: true
 url: whitespace-wars/index.html
 _type: Article
 _context: 'http://schema.org'
