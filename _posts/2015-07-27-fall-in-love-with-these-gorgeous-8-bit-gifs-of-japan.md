@@ -44,7 +44,7 @@ app_links: []
 isBasedOnUrl: 'http://thenextweb.com/shareables/2015/07/27/fall-in-love-with-these-gorgeous-8-bit-gifs-of-japan/'
 title: Fall in love with these gorgeous 8-bit GIFs of Japan
 datePublished: '2015-07-27T20:15:03.751Z'
-dateModified: '2015-07-27T20:15:03.751Z'
+dateModified: '2015-07-28T14:13:51.718Z'
 sourcePath: _posts/2015-07-27-fall-in-love-with-these-gorgeous-8-bit-gifs-of-japan.md
 published: true
 _context: 'http://schema.org'
