@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jul 2015 20:15:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jul 2015 12:40:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[26 digital typography rules for beginners - Design in the digital age]]></title>
+            <description><![CDATA[<article><h1>26 digital typography rules for beginners - Design in the digital age</h1><p>26 digital typography rules for beginners - Design in the digital age - Medium</p></article>]]></description>
+            <link>https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3</link>
+            <guid isPermaLink="false">16604016-d7ef-45b2-8f68-0a187e039eba</guid>
+            <pubDate>Tue, 28 Jul 2015 12:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fall in love with these gorgeous 8-bit GIFs of Japan]]></title>
             <description><![CDATA[<article><h1>Fall in love with these gorgeous 8-bit GIFs of Japan</h1><p>Japan is a country caught between two worlds, blending together its feudal architecture and traditional ways with the fast-paced technology that is so core to its modern identity. Somehow, the series of GIFs developed by Tumblr user 1041uuu captures the beauty and dichotomy of Japanese everyday life.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nmvrs6ubl71qze3hdo1_r1_500.gif"></article>]]></description>
