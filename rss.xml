@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 17:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 17:28:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tutorial: Setting Up a Simple Isomorphic React app]]></title>
+            <description><![CDATA[<article><h1>Tutorial: Setting Up a Simple Isomorphic React app</h1><p>After hearing the responses of one of my other tutorials, it quickly became evident that a quick Google search on "setting up React" led to very confusing results. One of the biggest causes of this confusion is what an "isomorphic app" is. This is a big buzz word, and there are 100s of solutions on Github.</p></article>]]></description>
+            <link>http://jmfurlott.com/tutorial-setting-up-a-simple-isomorphic-react-app/</link>
+            <guid isPermaLink="false">014c9c71-82e7-43dc-a6f5-da4692c084af</guid>
+            <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[17-Year-Old Self-Taught Mexican Artist Creates Stunning Watercolors And Pencil Drawings]]></title>
             <description><![CDATA[<article><h1>17-Year-Old Self-Taught Mexican Artist Creates Stunning Watercolors And Pencil Drawings</h1><p>Dany Lizeth, a creative and talented 17-year-old in Mexico, creates expertly detailed and beautifully colorful drawings of animals and people using watercolors and colored pencils. What's even more impressive than her amazing talent at such a young age, however, is that she taught herself how to draw this well!</p><img src="http://static.boredpanda.com/blog/wp-content/uploads/2015/07/realistic-watercolor-paintings-dany-lizeth-fb.jpg"></article>]]></description>
