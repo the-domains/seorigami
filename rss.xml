@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 17:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 17:31:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="So innovative they invented it twice http&colon;&sol;&sol;www&period;commitstrip&period;com&sol;2015&sol;07&sol;29&sol;so-innovative-they-invented-it-twice&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CLGS6uoUcAA49c2.jpg:large">]]></description>
+            <link>https://twitter.com/CommitStrip/status/626443361772302336</link>
+            <guid isPermaLink="false">30281d66-219d-49bd-b3eb-6608ce7df233</guid>
+            <pubDate>Wed, 29 Jul 2015 17:30:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ZURB U | Transform a sidebar into a slick Off-canvas menu]]></title>
             <description><![CDATA[<article><h1>ZURB U | Transform a sidebar into a slick Off-canvas menu</h1><p>Let's face it, sidebars are a hot design trend trend right now. There are tons of examples of this pattern being used all over the web. They are useful for just about everything, including marketing sites, e-commerce and admin dashboards. The pattern is pretty simple.</p><img src="https://s3.amazonaws.com/university-prod/uploads/attachments/311/original/sidebar.jpg?1437434256"></article>]]></description>
