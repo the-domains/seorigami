@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 17:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2015 17:28:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bing: The Drop In Organic Referrals Due To Bing's Search Encryption Roll Out]]></title>
+            <description><![CDATA[<article><h1>Bing: The Drop In Organic Referrals Due To Bing's Search Encryption Roll Out</h1><p>Last week we reported on a significant drop in Bing organic search referrers, which concerned many webmasters. In short, we found that analytics tools showed a widespread drop in traffic being reported from the Bing Organic Search source. At the same time there was a spike in Bing referrers coming from referring sites, as opposed to organic search.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/https-ssl-red-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/bing-the-drop-in-organic-referrals-due-to-bings-search-encryption-roll-out-226202?utm_campaign=socialflow&amp;utm_source=twitter&amp;utm_medium=social</link>
+            <guid isPermaLink="false">19304791-6b1f-4a71-b9a0-5297bfb04fca</guid>
+            <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tutorial: Setting Up a Simple Isomorphic React app]]></title>
             <description><![CDATA[<article><h1>Tutorial: Setting Up a Simple Isomorphic React app</h1><p>After hearing the responses of one of my other tutorials, it quickly became evident that a quick Google search on "setting up React" led to very confusing results. One of the biggest causes of this confusion is what an "isomorphic app" is. This is a big buzz word, and there are 100s of solutions on Github.</p></article>]]></description>
