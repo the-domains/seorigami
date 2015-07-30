@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 17:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 14:14:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>AJAX</p>]]></description>
+            <link>https://thegrid.ai/seorigami/ajax/index.html</link>
+            <guid isPermaLink="false">478b0621-6ed1-483f-8bae-bf973c8ecfb2</guid>
+            <pubDate>Thu, 30 Jul 2015 14:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="So innovative they invented it twice http&colon;&sol;&sol;www&period;commitstrip&period;com&sol;2015&sol;07&sol;29&sol;so-innovative-they-invented-it-twice&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CLGS6uoUcAA49c2.jpg:large">]]></description>
