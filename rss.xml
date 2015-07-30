@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 14:14:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Attract Killer Links For E-Commerce Sites]]></title>
+            <description><![CDATA[<article><h1>How To Attract Killer Links For E-Commerce Sites</h1><p>"Link building" has become a bit of a loaded term in the past few years. To some degree, this is justified. No one likes those dated and unprofessional "Hi, I was wondering if you would link to my site" emails. But the game has evolved, and frankly, I still love the term.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/links-identify-disavow1-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/attract-killer-links-e-commerce-sites-226311</link>
+            <guid isPermaLink="false">154d4b1d-d224-4b01-9810-0bae4de97a1b</guid>
+            <pubDate>Thu, 30 Jul 2015 14:14:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>AJAX</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3</link>
             <guid isPermaLink="false">16604016-d7ef-45b2-8f68-0a187e039eba</guid>
             <pubDate>Tue, 28 Jul 2015 12:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fall in love with these gorgeous 8-bit GIFs of Japan]]></title>
-            <description><![CDATA[<article><h1>Fall in love with these gorgeous 8-bit GIFs of Japan</h1><p>Japan is a country caught between two worlds, blending together its feudal architecture and traditional ways with the fast-paced technology that is so core to its modern identity. Somehow, the series of GIFs developed by Tumblr user 1041uuu captures the beauty and dichotomy of Japanese everyday life.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nmvrs6ubl71qze3hdo1_r1_500.gif"></article>]]></description>
-            <link>http://thenextweb.com/shareables/2015/07/27/fall-in-love-with-these-gorgeous-8-bit-gifs-of-japan/</link>
-            <guid isPermaLink="false">58385eee-5c44-4b2a-9147-0713509afe2d</guid>
-            <pubDate>Mon, 27 Jul 2015 20:15:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
