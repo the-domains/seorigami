@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 14:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 14:55:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm a product designer and these are my tools]]></title>
+            <description><![CDATA[<article><h1>I'm a product designer and these are my tools</h1><p>There are a lot of tools to get the job done when you're a product designer, and finding the right ones all comes down to how you like to work. This is what I use to a day to day basis when I'm doing design work.</p><img src="http://mrare.ca/wp-content/uploads/field-notes.jpg"></article>]]></description>
+            <link>http://mrare.ca/blog/product-designer-tools/</link>
+            <guid isPermaLink="false">d220dfeb-090f-439b-8969-e4ac3b6aaec1</guid>
+            <pubDate>Fri, 31 Jul 2015 14:54:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[8 exceptional examples of interactive product pages]]></title>
             <description><![CDATA[<article><h1>8 exceptional examples of interactive product pages</h1><p>We all love the ease, comfort and perks that come with shopping online. ; you can view, purchase and own practically anything in just a few clicks, all without having to leave your couch. However, there is a crucial element that will always be missing and that only comes with traditional retail spaces: experiencing the product physically.</p><img src="http://blog.usabilla.com/wp-content/uploads/2015/07/sonybemoved_featured-image.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>17-Year-Old Self-Taught Mexican Artist Creates Stunning Watercolors And Pencil Drawings</h1><p>Dany Lizeth, a creative and talented 17-year-old in Mexico, creates expertly detailed and beautifully colorful drawings of animals and people using watercolors and colored pencils. What's even more impressive than her amazing talent at such a young age, however, is that she taught herself how to draw this well!</p><img src="http://static.boredpanda.com/blog/wp-content/uploads/2015/07/realistic-watercolor-paintings-dany-lizeth-fb.jpg"></article>]]></description>
             <link>http://www.boredpanda.com/realistic-watercolor-paintings-colored-pencil-dany-lizeth/</link>
             <guid isPermaLink="false">4557e484-f35f-40e3-bb9d-6538810d797b</guid>
-            <pubDate>Wed, 29 Jul 2015 17:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Macro Photos Of Alien-like Plants Called Drosera]]></title>
-            <description><![CDATA[<article><h1>My Macro Photos Of Alien-like Plants Called Drosera</h1><p>My name is Joni Niemelä and I'm a fine art nature photographer from Finland. My works consist mostly of the nature around me and especially those little details which are often overseen. Although I have been doing macro photography for several years now my fascination for alien-like plants called Droseras also known as Sundews have grown more and more in the last couple of years.</p><img src="http://static.boredpanda.com/blog/wp-content/uploads/2015/07/fb_thumb_55b8ce218794d.jpg"></article>]]></description>
-            <link>http://www.boredpanda.com/macro-photography-plant-drosera-joni-niemela/</link>
-            <guid isPermaLink="false">d9f180ad-2622-4f02-8556-9e2e924e166f</guid>
             <pubDate>Wed, 29 Jul 2015 17:28:07 GMT</pubDate>
         </item>
     </channel>
