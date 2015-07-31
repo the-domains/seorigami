@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 14:55:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Telling beginners what no one else does - Mediumrare]]></title>
+            <description><![CDATA[<article><h1>Telling beginners what no one else does - Mediumrare</h1><p>Ira Glass is an American radio host, most known for this show This American Life.</p><img src="http://mrare.ca/wp-content/uploads/ira.jpg"></article>]]></description>
+            <link>http://mrare.ca/blog/telling-beginners-what-no-one-else-does/</link>
+            <guid isPermaLink="false">af1fb697-c666-4436-b477-5ebde2e81436</guid>
+            <pubDate>Fri, 31 Jul 2015 14:54:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Attract Killer Links For E-Commerce Sites]]></title>
             <description><![CDATA[<article><h1>How To Attract Killer Links For E-Commerce Sites</h1><p>"Link building" has become a bit of a loaded term in the past few years. To some degree, this is justified. No one likes those dated and unprofessional "Hi, I was wondering if you would link to my site" emails. But the game has evolved, and frankly, I still love the term.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/links-identify-disavow1-ss-1920.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/seorigami/a/index.html</link>
             <guid isPermaLink="false">227caefb-faba-4e24-af43-330cab301852</guid>
             <pubDate>Tue, 28 Jul 2015 14:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[26 digital typography rules for beginners - Design in the digital age]]></title>
-            <description><![CDATA[<article><h1>26 digital typography rules for beginners - Design in the digital age</h1><p>26 digital typography rules for beginners - Design in the digital age - Medium</p></article>]]></description>
-            <link>https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3</link>
-            <guid isPermaLink="false">16604016-d7ef-45b2-8f68-0a187e039eba</guid>
-            <pubDate>Tue, 28 Jul 2015 12:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
