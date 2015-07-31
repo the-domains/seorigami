@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 14:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2015 14:56:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's Your (UX Design) Superpower?]]></title>
+            <description><![CDATA[<article><h1>What's Your (UX Design) Superpower?</h1><p>Each one of us, at one time or another, has dreamed of being a superhero or wished for a superpower. As a kid I wanted to be Iron Man. Who wouldn't want that cool suit with all of that technology at your fingertips? But if you had a choice of user experience superpowers, what would you choose?</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*v-iTmk_bHm5RLGECV9yWKg.jpeg"></article>]]></description>
+            <link>https://medium.com/@dlook1/whats-your-ux-design-superpower-4fd3e63eca79</link>
+            <guid isPermaLink="false">f8cab3fe-471f-4f41-b0bd-aef4bf3bf06b</guid>
+            <pubDate>Fri, 31 Jul 2015 00:43:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I'm a product designer and these are my tools]]></title>
             <description><![CDATA[<article><h1>I'm a product designer and these are my tools</h1><p>There are a lot of tools to get the job done when you're a product designer, and finding the right ones all comes down to how you like to work. This is what I use to a day to day basis when I'm doing design work.</p><img src="http://mrare.ca/wp-content/uploads/field-notes.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://jmfurlott.com/tutorial-setting-up-a-simple-isomorphic-react-app/</link>
             <guid isPermaLink="false">014c9c71-82e7-43dc-a6f5-da4692c084af</guid>
             <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17-Year-Old Self-Taught Mexican Artist Creates Stunning Watercolors And Pencil Drawings]]></title>
-            <description><![CDATA[<article><h1>17-Year-Old Self-Taught Mexican Artist Creates Stunning Watercolors And Pencil Drawings</h1><p>Dany Lizeth, a creative and talented 17-year-old in Mexico, creates expertly detailed and beautifully colorful drawings of animals and people using watercolors and colored pencils. What's even more impressive than her amazing talent at such a young age, however, is that she taught herself how to draw this well!</p><img src="http://static.boredpanda.com/blog/wp-content/uploads/2015/07/realistic-watercolor-paintings-dany-lizeth-fb.jpg"></article>]]></description>
-            <link>http://www.boredpanda.com/realistic-watercolor-paintings-colored-pencil-dany-lizeth/</link>
-            <guid isPermaLink="false">4557e484-f35f-40e3-bb9d-6538810d797b</guid>
-            <pubDate>Wed, 29 Jul 2015 17:28:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
