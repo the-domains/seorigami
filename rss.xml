@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 14:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2015 23:00:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The NDAA Legalizes The Use Of Propaganda On The US Public]]></title>
+            <description><![CDATA[<article><h1>The NDAA Legalizes The Use Of Propaganda On The US Public</h1><p>The newest version of the National Defense Authorization Act (NDAA) includes an amendment that would legalize the use of propaganda on the American public, reports Michael Hastings of BuzzFeed. The amendment - proposed by Mac Thornberry (R-Texas) and Adam Smith (D-Wash.)</p><img src="http://static6.businessinsider.com/image/4fbaa47769bedd810f000004/the-ndaa-legalizes-the-use-of-propaganda-on-the-us-public.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/ndaa-legalizes-propaganda-2012-5</link>
+            <guid isPermaLink="false">627da56c-e412-4d46-a64f-c0c322fde622</guid>
+            <pubDate>Sun, 02 Aug 2015 23:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's Your (UX Design) Superpower?]]></title>
             <description><![CDATA[<article><h1>What's Your (UX Design) Superpower?</h1><p>Each one of us, at one time or another, has dreamed of being a superhero or wished for a superpower. As a kid I wanted to be Iron Man. Who wouldn't want that cool suit with all of that technology at your fingertips? But if you had a choice of user experience superpowers, what would you choose?</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*v-iTmk_bHm5RLGECV9yWKg.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Bing: The Drop In Organic Referrals Due To Bing's Search Encryption Roll Out</h1><p>Last week we reported on a significant drop in Bing organic search referrers, which concerned many webmasters. In short, we found that analytics tools showed a widespread drop in traffic being reported from the Bing Organic Search source. At the same time there was a spike in Bing referrers coming from referring sites, as opposed to organic search.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/https-ssl-red-ss-1920.jpg"></article>]]></description>
             <link>http://searchengineland.com/bing-the-drop-in-organic-referrals-due-to-bings-search-encryption-roll-out-226202?utm_campaign=socialflow&amp;utm_source=twitter&amp;utm_medium=social</link>
             <guid isPermaLink="false">19304791-6b1f-4a71-b9a0-5297bfb04fca</guid>
-            <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tutorial: Setting Up a Simple Isomorphic React app]]></title>
-            <description><![CDATA[<article><h1>Tutorial: Setting Up a Simple Isomorphic React app</h1><p>After hearing the responses of one of my other tutorials, it quickly became evident that a quick Google search on "setting up React" led to very confusing results. One of the biggest causes of this confusion is what an "isomorphic app" is. This is a big buzz word, and there are 100s of solutions on Github.</p></article>]]></description>
-            <link>http://jmfurlott.com/tutorial-setting-up-a-simple-isomorphic-react-app/</link>
-            <guid isPermaLink="false">014c9c71-82e7-43dc-a6f5-da4692c084af</guid>
             <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
         </item>
     </channel>
