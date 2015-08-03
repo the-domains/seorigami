@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Aug 2015 23:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2015 12:52:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skateboard Decks Recycled in Guitars]]></title>
+            <description><![CDATA[<article><h1>Skateboard Decks Recycled in Guitars</h1><p>Nick Pourfard est un étudiant en design de 22 ans. Il a récemment créé sa marque Prisma Guitar alliant ses deux passions pour la musique et le skateboard</p><img src="http://www.fubiz.net/wp-content/uploads/2015/07/skateboardguitar1-639x0.jpg"></article>]]></description>
+            <link>http://www.fubiz.net/2015/07/27/skateboard-decks-recycled-in-guitars/</link>
+            <guid isPermaLink="false">7e391a27-69ba-486a-91ff-e0d1b280ade1</guid>
+            <pubDate>Mon, 03 Aug 2015 12:51:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The NDAA Legalizes The Use Of Propaganda On The US Public]]></title>
             <description><![CDATA[<article><h1>The NDAA Legalizes The Use Of Propaganda On The US Public</h1><p>The newest version of the National Defense Authorization Act (NDAA) includes an amendment that would legalize the use of propaganda on the American public, reports Michael Hastings of BuzzFeed. The amendment - proposed by Mac Thornberry (R-Texas) and Adam Smith (D-Wash.)</p><img src="http://static6.businessinsider.com/image/4fbaa47769bedd810f000004/the-ndaa-legalizes-the-use-of-propaganda-on-the-us-public.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>ZURB U | Transform a sidebar into a slick Off-canvas menu</h1><p>Let's face it, sidebars are a hot design trend trend right now. There are tons of examples of this pattern being used all over the web. They are useful for just about everything, including marketing sites, e-commerce and admin dashboards. The pattern is pretty simple.</p><img src="https://s3.amazonaws.com/university-prod/uploads/attachments/311/original/sidebar.jpg?1437434256"></article>]]></description>
             <link>http://zurb.com/university/lessons/transform-a-sidebar-into-a-slick-off-canvas-menu</link>
             <guid isPermaLink="false">97593202-f7be-434a-9896-4112d1794c70</guid>
-            <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bing: The Drop In Organic Referrals Due To Bing's Search Encryption Roll Out]]></title>
-            <description><![CDATA[<article><h1>Bing: The Drop In Organic Referrals Due To Bing's Search Encryption Roll Out</h1><p>Last week we reported on a significant drop in Bing organic search referrers, which concerned many webmasters. In short, we found that analytics tools showed a widespread drop in traffic being reported from the Bing Organic Search source. At the same time there was a spike in Bing referrers coming from referring sites, as opposed to organic search.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/https-ssl-red-ss-1920.jpg"></article>]]></description>
-            <link>http://searchengineland.com/bing-the-drop-in-organic-referrals-due-to-bings-search-encryption-roll-out-226202?utm_campaign=socialflow&amp;utm_source=twitter&amp;utm_medium=social</link>
-            <guid isPermaLink="false">19304791-6b1f-4a71-b9a0-5297bfb04fca</guid>
             <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
         </item>
     </channel>
