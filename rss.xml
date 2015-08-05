@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 13:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 13:59:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 40mph Trefecta DRT e-Bike - Design Milk]]></title>
+            <description><![CDATA[<article><h1>The 40mph Trefecta DRT e-Bike - Design Milk</h1><p>Inhabiting a space somewhere between a bicycle, motorcycle, and Wayne Enterprises concept, the Trefecta DRT e-bike is an aluminum frame, 4,000 watt motor powered, wireless app connected eMobility vehicle like no other.</p><img src="http://1.design-milk.com/images/2015/07/eMobility-Trefecta-DRT-02.jpg"></article>]]></description>
+            <link>http://design-milk.com/wifi-bluetooth-connected-trefecta-drt-e-bike/?utm_source=feedly&amp;utm_medium=webfeeds</link>
+            <guid isPermaLink="false">a207c452-739e-445c-afa2-e4e75e11a1b3</guid>
+            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Up For Grabs]]></title>
             <description><![CDATA[<article><h1>Up For Grabs</h1><p>Up For Grabs : Jump in!</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://mrare.ca/blog/telling-beginners-what-no-one-else-does/</link>
             <guid isPermaLink="false">af1fb697-c666-4436-b477-5ebde2e81436</guid>
             <pubDate>Fri, 31 Jul 2015 14:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Attract Killer Links For E-Commerce Sites]]></title>
-            <description><![CDATA[<article><h1>How To Attract Killer Links For E-Commerce Sites</h1><p>"Link building" has become a bit of a loaded term in the past few years. To some degree, this is justified. No one likes those dated and unprofessional "Hi, I was wondering if you would link to my site" emails. But the game has evolved, and frankly, I still love the term.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/links-identify-disavow1-ss-1920.jpg"></article>]]></description>
-            <link>http://searchengineland.com/attract-killer-links-e-commerce-sites-226311</link>
-            <guid isPermaLink="false">154d4b1d-d224-4b01-9810-0bae4de97a1b</guid>
-            <pubDate>Thu, 30 Jul 2015 14:14:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
