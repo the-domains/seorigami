@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 13:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 13:59:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Teaching CSS]]></title>
+            <description><![CDATA[<article><h1>Teaching CSS</h1><p>To my surprise, my daughter asked me if I would teach her how to build a web site today. She more or less wants a blog to keep track of what is going on at a recess club she made at school: regular notes, calendar, things like that.</p><img src="http://www.bleonard.com/images/dp.jpg"></article>]]></description>
+            <link>http://www.bleonard.com/blog/2015/08/01/teaching-css/</link>
+            <guid isPermaLink="false">05d588b0-f2d3-400a-91d1-588535d7f181</guid>
+            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 Good Developer Habits I Wish I'd Developed Sooner - Treehouse Blog]]></title>
             <description><![CDATA[<article><h1>7 Good Developer Habits I Wish I'd Developed Sooner - Treehouse Blog</h1><p>Learning to code, whether done through a system like Treehouse or independently, can be a heck of a journey. Much has been written about the early bouts of confusion, impostor syndrome and debugging purgatory that often turn the outwardly ambitious into the seemingly sadistic.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@dlook1/whats-your-ux-design-superpower-4fd3e63eca79</link>
             <guid isPermaLink="false">f8cab3fe-471f-4f41-b0bd-aef4bf3bf06b</guid>
             <pubDate>Fri, 31 Jul 2015 00:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm a product designer and these are my tools]]></title>
-            <description><![CDATA[<article><h1>I'm a product designer and these are my tools</h1><p>There are a lot of tools to get the job done when you're a product designer, and finding the right ones all comes down to how you like to work. This is what I use to a day to day basis when I'm doing design work.</p><img src="http://mrare.ca/wp-content/uploads/field-notes.jpg"></article>]]></description>
-            <link>http://mrare.ca/blog/product-designer-tools/</link>
-            <guid isPermaLink="false">d220dfeb-090f-439b-8969-e4ac3b6aaec1</guid>
-            <pubDate>Fri, 31 Jul 2015 14:54:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
