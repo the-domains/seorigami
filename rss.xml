@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 13:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 13:58:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Up For Grabs]]></title>
+            <description><![CDATA[<article><h1>Up For Grabs</h1><p>Up For Grabs : Jump in!</p></article>]]></description>
+            <link>http://up-for-grabs.net/#/</link>
+            <guid isPermaLink="false">1401b628-2fb4-4bbc-952c-db9ea6bb256a</guid>
+            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NOW-a beautiful cross-platform UI kit - InVision Blog]]></title>
             <description><![CDATA[<article><h1>NOW-a beautiful cross-platform UI kit - InVision Blog</h1><p>Meet NOW. You need this beautiful-and free!-cross-platform UI kit for web, tablet, and mobile designs. This comprehensive UI kit has over 52 complete design templates, 35 custom icons, and over 180 UI components. NOW is ready-made for creating immersive cross-platform experiences.</p><img src="http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/08/165x90_2_2x.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://searchengineland.com/attract-killer-links-e-commerce-sites-226311</link>
             <guid isPermaLink="false">154d4b1d-d224-4b01-9810-0bae4de97a1b</guid>
             <pubDate>Thu, 30 Jul 2015 14:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>AJAX</p>]]></description>
-            <link>https://thegrid.ai/seorigami/ajax/index.html</link>
-            <guid isPermaLink="false">478b0621-6ed1-483f-8bae-bf973c8ecfb2</guid>
-            <pubDate>Thu, 30 Jul 2015 14:14:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
