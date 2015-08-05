@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 13:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 13:58:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NOW-a beautiful cross-platform UI kit - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>NOW-a beautiful cross-platform UI kit - InVision Blog</h1><p>Meet NOW. You need this beautiful-and free!-cross-platform UI kit for web, tablet, and mobile designs. This comprehensive UI kit has over 52 complete design templates, 35 custom icons, and over 180 UI components. NOW is ready-made for creating immersive cross-platform experiences.</p><img src="http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/08/165x90_2_2x.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.com/free-ui-kit-app-template-now/</link>
+            <guid isPermaLink="false">ed821f0e-0e07-4892-b72b-85079d56e469</guid>
+            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Minions Are Angry You've Moved on to Other Movies and Are Now Attacking Cities]]></title>
             <description><![CDATA[<article><h1>The Minions Are Angry You've Moved on to Other Movies and Are Now Attacking Cities</h1><p>Dublin, Ireland is under attack. Not by the military of a warring country. Not by Godzilla or a Godzilla-like monster. No, by something far more nefarious: A character from an animated children's movie. Yesterday in the north part of the Irish capital, a Minion got loose and terrorized the streets.</p><img src="http://media.gq.com/photos/55c05cf4b6a585c04cb5c180/master/w_806/CLadsKFWwAAEyqu%20copy.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/seorigami/ajax/index.html</link>
             <guid isPermaLink="false">478b0621-6ed1-483f-8bae-bf973c8ecfb2</guid>
             <pubDate>Thu, 30 Jul 2015 14:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="So innovative they invented it twice http&colon;&sol;&sol;www&period;commitstrip&period;com&sol;2015&sol;07&sol;29&sol;so-innovative-they-invented-it-twice&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CLGS6uoUcAA49c2.jpg:large">]]></description>
-            <link>https://twitter.com/CommitStrip/status/626443361772302336</link>
-            <guid isPermaLink="false">30281d66-219d-49bd-b3eb-6608ce7df233</guid>
-            <pubDate>Wed, 29 Jul 2015 17:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
