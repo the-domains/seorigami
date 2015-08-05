@@ -1,7 +1,6 @@
-name: null
+name: SEOrigami
 favicon: null
 layout_spectrum: 0.8
-typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -15,8 +14,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#708837'
+    - '#391408'
+    - '#9a352d'
+    - '#f1db32'
+    - '#95adca'
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
