@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Aug 2015 12:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2015 13:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Minions Are Angry You've Moved on to Other Movies and Are Now Attacking Cities]]></title>
+            <description><![CDATA[<article><h1>The Minions Are Angry You've Moved on to Other Movies and Are Now Attacking Cities</h1><p>Dublin, Ireland is under attack. Not by the military of a warring country. Not by Godzilla or a Godzilla-like monster. No, by something far more nefarious: A character from an animated children's movie. Yesterday in the north part of the Irish capital, a Minion got loose and terrorized the streets.</p><img src="http://media.gq.com/photos/55c05cf4b6a585c04cb5c180/master/w_806/CLadsKFWwAAEyqu%20copy.jpg"></article>]]></description>
+            <link>http://www.gq.com/story/minion-attack?mbid=social_twitter</link>
+            <guid isPermaLink="false">81566c8f-d28a-460e-9aa5-d81a99e174b3</guid>
+            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Skateboard Decks Recycled in Guitars]]></title>
             <description><![CDATA[<article><h1>Skateboard Decks Recycled in Guitars</h1><p>Nick Pourfard est un étudiant en design de 22 ans. Il a récemment créé sa marque Prisma Guitar alliant ses deux passions pour la musique et le skateboard</p><img src="http://www.fubiz.net/wp-content/uploads/2015/07/skateboardguitar1-639x0.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/CommitStrip/status/626443361772302336</link>
             <guid isPermaLink="false">30281d66-219d-49bd-b3eb-6608ce7df233</guid>
             <pubDate>Wed, 29 Jul 2015 17:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZURB U | Transform a sidebar into a slick Off-canvas menu]]></title>
-            <description><![CDATA[<article><h1>ZURB U | Transform a sidebar into a slick Off-canvas menu</h1><p>Let's face it, sidebars are a hot design trend trend right now. There are tons of examples of this pattern being used all over the web. They are useful for just about everything, including marketing sites, e-commerce and admin dashboards. The pattern is pretty simple.</p><img src="https://s3.amazonaws.com/university-prod/uploads/attachments/311/original/sidebar.jpg?1437434256"></article>]]></description>
-            <link>http://zurb.com/university/lessons/transform-a-sidebar-into-a-slick-off-canvas-menu</link>
-            <guid isPermaLink="false">97593202-f7be-434a-9896-4112d1794c70</guid>
-            <pubDate>Wed, 29 Jul 2015 17:28:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
