@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[SEOrigami]]></title>
+        <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Aug 2015 13:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:11:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HTC caught storing fingerprints AS WORLD-READABLE CLEARTEXT]]></title>
+            <description><![CDATA[<article><h1>HTC caught storing fingerprints AS WORLD-READABLE CLEARTEXT</h1><p>Skip to content Four FireEye researchers have found a way to steal fingerprints from Android phones packing biometric sensors such as the Samsung Galaxy S5 and the HTC One Max. The team found a forehead-slapping flaw in HTC One Max in which fingerprints are stored as an image file ( dbgraw.bmp) in a open "world readable" folder.</p><img src="https://regmedia.co.uk/2015/01/29/android_toys.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2015/08/10/htc_caught_storing_fingerprints_as_worldreadable_cleartext/</link>
+            <guid isPermaLink="false">7ff48a44-3833-472e-9dbd-bbcbd2529d08</guid>
+            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Teaching CSS]]></title>
             <description><![CDATA[<article><h1>Teaching CSS</h1><p>To my surprise, my daughter asked me if I would teach her how to build a web site today. She more or less wants a blog to keep track of what is going on at a recess club she made at school: regular notes, calendar, things like that.</p><img src="http://www.bleonard.com/images/dp.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.businessinsider.com/ndaa-legalizes-propaganda-2012-5</link>
             <guid isPermaLink="false">627da56c-e412-4d46-a64f-c0c322fde622</guid>
             <pubDate>Sun, 02 Aug 2015 23:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's Your (UX Design) Superpower?]]></title>
-            <description><![CDATA[<article><h1>What's Your (UX Design) Superpower?</h1><p>Each one of us, at one time or another, has dreamed of being a superhero or wished for a superpower. As a kid I wanted to be Iron Man. Who wouldn't want that cool suit with all of that technology at your fingertips? But if you had a choice of user experience superpowers, what would you choose?</p><img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*v-iTmk_bHm5RLGECV9yWKg.jpeg"></article>]]></description>
-            <link>https://medium.com/@dlook1/whats-your-ux-design-superpower-4fd3e63eca79</link>
-            <guid isPermaLink="false">f8cab3fe-471f-4f41-b0bd-aef4bf3bf06b</guid>
-            <pubDate>Fri, 31 Jul 2015 00:43:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
