@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:12:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Use this tool to check your code's browser compatibility]]></title>
+            <description><![CDATA[<article><h1>Use this tool to check your code's browser compatibility</h1><p>Browser compatibility is something all Web developers spend a lot of time working on. A handy Node package makes it easy to see if the shiny new feature you're trying out is compatible with enough browsers to implement it.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/DSCF1448.jpg"></article>]]></description>
+            <link>http://thenextweb.com/dd/2015/08/10/use-this-handy-command-line-tool-to-check-if-your-code-works-across-browsers/</link>
+            <guid isPermaLink="false">1aa664f6-949c-4b7a-8be5-d35883262648</guid>
+            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Through</p>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>NOW-a beautiful cross-platform UI kit - InVision Blog</h1><p>Meet NOW. You need this beautiful-and free!-cross-platform UI kit for web, tablet, and mobile designs. This comprehensive UI kit has over 52 complete design templates, 35 custom icons, and over 180 UI components. NOW is ready-made for creating immersive cross-platform experiences.</p><img src="http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/08/165x90_2_2x.jpg"></article>]]></description>
             <link>http://blog.invisionapp.com/free-ui-kit-app-template-now/</link>
             <guid isPermaLink="false">ed821f0e-0e07-4892-b72b-85079d56e469</guid>
-            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Minions Are Angry You've Moved on to Other Movies and Are Now Attacking Cities]]></title>
-            <description><![CDATA[<article><h1>The Minions Are Angry You've Moved on to Other Movies and Are Now Attacking Cities</h1><p>Dublin, Ireland is under attack. Not by the military of a warring country. Not by Godzilla or a Godzilla-like monster. No, by something far more nefarious: A character from an animated children's movie. Yesterday in the north part of the Irish capital, a Minion got loose and terrorized the streets.</p><img src="http://media.gq.com/photos/55c05cf4b6a585c04cb5c180/master/w_806/CLadsKFWwAAEyqu%20copy.jpg"></article>]]></description>
-            <link>http://www.gq.com/story/minion-attack?mbid=social_twitter</link>
-            <guid isPermaLink="false">81566c8f-d28a-460e-9aa5-d81a99e174b3</guid>
             <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
         </item>
     </channel>
