@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:21:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Sharecropping: The Most Dangerous Threat to Your Content Marketing Strategy - Copyblogger]]></title>
+            <description><![CDATA[<article><h1>Digital Sharecropping: The Most Dangerous Threat to Your Content Marketing Strategy - Copyblogger</h1><p>When you build your business on a platform you don't control, you're taking on a lot of unnecessary risk and headache.</p><img src="http://www.copyblogger.com/images/2012/11/digital-sharecropping.jpg"></article>]]></description>
+            <link>http://www.copyblogger.com/digital-sharecropping/?utm_content=buffer4f9d8&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">0270d04a-7c0e-4461-9e12-f920c9c3e0ab</guid>
+            <pubDate>Tue, 11 Aug 2015 16:20:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Felix Woitzel \ WebGL Particle Projection Feedback Soup \\ codedoodl.es]]></title>
             <description><![CDATA[<article><h1>Felix Woitzel \ WebGL Particle Projection Feedback Soup \\ codedoodl.es</h1><p>This is a multi-stage render-to-texture WebGL shader pipeline experiment, including a GPU particle system, a fluid simulation, many blur levels, one texture feedback loop for reaction-diffusion pattern synthesis, and a final composite shader for recoloring. It's written in plain Vanilla JS as single page with no dependencies - just copy and edit.</p><img src="http://source.codedoodl.es/flexi23/webgl-particle-projection-feedback-soup/thumb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>7 Good Developer Habits I Wish I'd Developed Sooner - Treehouse Blog</h1><p>Learning to code, whether done through a system like Treehouse or independently, can be a heck of a journey. Much has been written about the early bouts of confusion, impostor syndrome and debugging purgatory that often turn the outwardly ambitious into the seemingly sadistic.</p></article>]]></description>
             <link>http://blog.teamtreehouse.com/7-good-developer-habits-wish-id-developed-sooner</link>
             <guid isPermaLink="false">18a078d2-72f9-45bd-9e48-4009bbfd586b</guid>
-            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The pro guide to the perfect UX portfolio]]></title>
-            <description><![CDATA[<article><h1>The pro guide to the perfect UX portfolio</h1><p>A portfolio site for a UX professional, though, is unique because it's both. For UX and UI designers, your website is more than just descriptions of your work - it is your work. In a lot of cases, the site alone may determine whether or not you get hired, so do everything you can to make it perfect.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/portfolio.jpg"></article>]]></description>
-            <link>http://thenextweb.com/dd/2015/07/27/the-pro-guide-to-the-perfect-ux-portfolio/?hash=e6eec11f-a9ac-4599-a328-3db53fc3558a</link>
-            <guid isPermaLink="false">5b2c67bd-8aed-42dc-a58c-58efe654d39f</guid>
             <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
         </item>
     </channel>
