@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:12:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Felix Woitzel \ WebGL Particle Projection Feedback Soup \\ codedoodl.es]]></title>
+            <description><![CDATA[<article><h1>Felix Woitzel \ WebGL Particle Projection Feedback Soup \\ codedoodl.es</h1><p>This is a multi-stage render-to-texture WebGL shader pipeline experiment, including a GPU particle system, a fluid simulation, many blur levels, one texture feedback loop for reaction-diffusion pattern synthesis, and a final composite shader for recoloring. It's written in plain Vanilla JS as single page with no dependencies - just copy and edit.</p><img src="http://source.codedoodl.es/flexi23/webgl-particle-projection-feedback-soup/thumb.jpg"></article>]]></description>
+            <link>http://codedoodl.es/_/flexi23/webgl-particle-projection-feedback-soup/</link>
+            <guid isPermaLink="false">0f94b13d-cd69-4f79-9a88-7f99045eaa47</guid>
+            <pubDate>Tue, 11 Aug 2015 16:10:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 16 Secrets Of Guerrilla Local SEO]]></title>
             <description><![CDATA[<article><h1>The 16 Secrets Of Guerrilla Local SEO</h1><p>When it really comes down to it, SEO and local SEO are just forms of marketing. Much like a Yellow Pages listing, they represent a way to get your business in front of interested consumers. With Yellow Page listings, as in most forms of advertising media, you can simply pay to appear.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/08/guerrilla-local-jungle-marketing-ss-1920.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>The pro guide to the perfect UX portfolio</h1><p>A portfolio site for a UX professional, though, is unique because it's both. For UX and UI designers, your website is more than just descriptions of your work - it is your work. In a lot of cases, the site alone may determine whether or not you get hired, so do everything you can to make it perfect.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/portfolio.jpg"></article>]]></description>
             <link>http://thenextweb.com/dd/2015/07/27/the-pro-guide-to-the-perfect-ux-portfolio/?hash=e6eec11f-a9ac-4599-a328-3db53fc3558a</link>
             <guid isPermaLink="false">5b2c67bd-8aed-42dc-a58c-58efe654d39f</guid>
-            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 40mph Trefecta DRT e-Bike - Design Milk]]></title>
-            <description><![CDATA[<article><h1>The 40mph Trefecta DRT e-Bike - Design Milk</h1><p>Inhabiting a space somewhere between a bicycle, motorcycle, and Wayne Enterprises concept, the Trefecta DRT e-bike is an aluminum frame, 4,000 watt motor powered, wireless app connected eMobility vehicle like no other.</p><img src="http://1.design-milk.com/images/2015/07/eMobility-Trefecta-DRT-02.jpg"></article>]]></description>
-            <link>http://design-milk.com/wifi-bluetooth-connected-trefecta-drt-e-bike/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">a207c452-739e-445c-afa2-e4e75e11a1b3</guid>
             <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
         </item>
     </channel>
