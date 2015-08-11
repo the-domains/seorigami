@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:12:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Through</p>]]></description>
+            <link>https://thegrid.ai/seorigami/through/index.html</link>
+            <guid isPermaLink="false">7c62757e-f7f4-4678-b787-e343cf17b9cf</guid>
+            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The ultimate guide to learning anything faster]]></title>
             <description><![CDATA[<article><h1>The ultimate guide to learning anything faster</h1><p>If only. For many of us, there are more things we want to learn than we have time. As information becomes more readily accesible online, the number of things we want to learn is only continuing to increase. And the only variable we can control is the amount of time we spend learning them.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/learning.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.gq.com/story/minion-attack?mbid=social_twitter</link>
             <guid isPermaLink="false">81566c8f-d28a-460e-9aa5-d81a99e174b3</guid>
             <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skateboard Decks Recycled in Guitars]]></title>
-            <description><![CDATA[<article><h1>Skateboard Decks Recycled in Guitars</h1><p>Nick Pourfard est un étudiant en design de 22 ans. Il a récemment créé sa marque Prisma Guitar alliant ses deux passions pour la musique et le skateboard</p><img src="http://www.fubiz.net/wp-content/uploads/2015/07/skateboardguitar1-639x0.jpg"></article>]]></description>
-            <link>http://www.fubiz.net/2015/07/27/skateboard-decks-recycled-in-guitars/</link>
-            <guid isPermaLink="false">7e391a27-69ba-486a-91ff-e0d1b280ade1</guid>
-            <pubDate>Mon, 03 Aug 2015 12:51:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
