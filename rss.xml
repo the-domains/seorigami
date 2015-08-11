@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:11:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The ultimate guide to learning anything faster]]></title>
+            <description><![CDATA[<article><h1>The ultimate guide to learning anything faster</h1><p>If only. For many of us, there are more things we want to learn than we have time. As information becomes more readily accesible online, the number of things we want to learn is only continuing to increase. And the only variable we can control is the amount of time we spend learning them.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/learning.jpg"></article>]]></description>
+            <link>http://thenextweb.com/lifehacks/2015/06/07/the-ultimate-guide-to-learning-anything-faster/</link>
+            <guid isPermaLink="false">cb545d05-6801-48fc-a839-3e5cf6704a38</guid>
+            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HTC caught storing fingerprints AS WORLD-READABLE CLEARTEXT]]></title>
             <description><![CDATA[<article><h1>HTC caught storing fingerprints AS WORLD-READABLE CLEARTEXT</h1><p>Skip to content Four FireEye researchers have found a way to steal fingerprints from Android phones packing biometric sensors such as the Samsung Galaxy S5 and the HTC One Max. The team found a forehead-slapping flaw in HTC One Max in which fingerprints are stored as an image file ( dbgraw.bmp) in a open "world readable" folder.</p><img src="https://regmedia.co.uk/2015/01/29/android_toys.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.fubiz.net/2015/07/27/skateboard-decks-recycled-in-guitars/</link>
             <guid isPermaLink="false">7e391a27-69ba-486a-91ff-e0d1b280ade1</guid>
             <pubDate>Mon, 03 Aug 2015 12:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The NDAA Legalizes The Use Of Propaganda On The US Public]]></title>
-            <description><![CDATA[<article><h1>The NDAA Legalizes The Use Of Propaganda On The US Public</h1><p>The newest version of the National Defense Authorization Act (NDAA) includes an amendment that would legalize the use of propaganda on the American public, reports Michael Hastings of BuzzFeed. The amendment - proposed by Mac Thornberry (R-Texas) and Adam Smith (D-Wash.)</p><img src="http://static6.businessinsider.com/image/4fbaa47769bedd810f000004/the-ndaa-legalizes-the-use-of-propaganda-on-the-us-public.jpg"></article>]]></description>
-            <link>http://www.businessinsider.com/ndaa-legalizes-propaganda-2012-5</link>
-            <guid isPermaLink="false">627da56c-e412-4d46-a64f-c0c322fde622</guid>
-            <pubDate>Sun, 02 Aug 2015 23:00:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
