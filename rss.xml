@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2015 16:12:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When Your Gym Is An Arcade, And Your Arcade Says You Have Cancer]]></title>
+            <description><![CDATA[<article><h1>When Your Gym Is An Arcade, And Your Arcade Says You Have Cancer</h1><p>What if going in for a medical checkup didn't involve waiting in a sterile white room decorated with cotton balls and otoscope attachments? What if, instead, you could step up to play a game, as if you're visiting an old-school arcade?</p><img src="http://d.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2015/08/3049621-poster-p-1-when-your-gym-is-an-arcade-and-your-arcade-says-you-have-cancer.gif"></article>]]></description>
+            <link>http://www.fastcodesign.com/3049621/when-your-gym-is-an-arcade-and-your-arcade-says-you-have-cancer?partner=rss</link>
+            <guid isPermaLink="false">f3874726-9914-4aa3-9d96-8eccb283dcdc</guid>
+            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Use this tool to check your code's browser compatibility]]></title>
             <description><![CDATA[<article><h1>Use this tool to check your code's browser compatibility</h1><p>Browser compatibility is something all Web developers spend a lot of time working on. A handy Node package makes it easy to see if the shiny new feature you're trying out is compatible with enough browsers to implement it.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/DSCF1448.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Up For Grabs</h1><p>Up For Grabs : Jump in!</p></article>]]></description>
             <link>http://up-for-grabs.net/#/</link>
             <guid isPermaLink="false">1401b628-2fb4-4bbc-952c-db9ea6bb256a</guid>
-            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NOW-a beautiful cross-platform UI kit - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>NOW-a beautiful cross-platform UI kit - InVision Blog</h1><p>Meet NOW. You need this beautiful-and free!-cross-platform UI kit for web, tablet, and mobile designs. This comprehensive UI kit has over 52 complete design templates, 35 custom icons, and over 180 UI components. NOW is ready-made for creating immersive cross-platform experiences.</p><img src="http://s3.amazonaws.com/blog.invisionapp.com/uploads/2015/08/165x90_2_2x.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.com/free-ui-kit-app-template-now/</link>
-            <guid isPermaLink="false">ed821f0e-0e07-4892-b72b-85079d56e469</guid>
             <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
         </item>
     </channel>
