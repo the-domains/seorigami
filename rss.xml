@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Aug 2015 16:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2015 13:32:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Increase Your Willpower - The nuSchool]]></title>
+            <description><![CDATA[<article><h1>How To Increase Your Willpower - The nuSchool</h1><p>Albert Einstein famously said that genius is 1% talent and 99% hard work. That's probably true, but I've noticed something else about hard work: first of all, it's not easy to do. Secondly, most people try to avoid hard work at all cost, even the talented ones.</p><img src="http://d3i6t9ktpqo56g.cloudfront.net/wp-content/uploads/2015/05/willpower.jpg"></article>]]></description>
+            <link>http://thenuschool.com/how-to-increase-your-willpower/?utm_source=designernews</link>
+            <guid isPermaLink="false">8283e12e-1ed8-4ce9-9f79-7c4e8416bcb2</guid>
+            <pubDate>Wed, 12 Aug 2015 13:30:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Sharecropping: The Most Dangerous Threat to Your Content Marketing Strategy - Copyblogger]]></title>
             <description><![CDATA[<article><h1>Digital Sharecropping: The Most Dangerous Threat to Your Content Marketing Strategy - Copyblogger</h1><p>When you build your business on a platform you don't control, you're taking on a lot of unnecessary risk and headache.</p><img src="http://www.copyblogger.com/images/2012/11/digital-sharecropping.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Teaching CSS</h1><p>To my surprise, my daughter asked me if I would teach her how to build a web site today. She more or less wants a blog to keep track of what is going on at a recess club she made at school: regular notes, calendar, things like that.</p><img src="http://www.bleonard.com/images/dp.jpg"></article>]]></description>
             <link>http://www.bleonard.com/blog/2015/08/01/teaching-css/</link>
             <guid isPermaLink="false">05d588b0-f2d3-400a-91d1-588535d7f181</guid>
-            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Good Developer Habits I Wish I'd Developed Sooner - Treehouse Blog]]></title>
-            <description><![CDATA[<article><h1>7 Good Developer Habits I Wish I'd Developed Sooner - Treehouse Blog</h1><p>Learning to code, whether done through a system like Treehouse or independently, can be a heck of a journey. Much has been written about the early bouts of confusion, impostor syndrome and debugging purgatory that often turn the outwardly ambitious into the seemingly sadistic.</p></article>]]></description>
-            <link>http://blog.teamtreehouse.com/7-good-developer-habits-wish-id-developed-sooner</link>
-            <guid isPermaLink="false">18a078d2-72f9-45bd-9e48-4009bbfd586b</guid>
             <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
         </item>
     </channel>
