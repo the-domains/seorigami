@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Aug 2015 13:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2015 14:19:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.4cdn.org/x/1439801302192.jpg">]]></description>
+            <link>https://thegrid.ai/seorigami/48b71d0c-6c56-47d9-82da-5d708e644a7b/index.html</link>
+            <guid isPermaLink="false">48b71d0c-6c56-47d9-82da-5d708e644a7b</guid>
+            <pubDate>Tue, 18 Aug 2015 14:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Increase Your Willpower - The nuSchool]]></title>
             <description><![CDATA[<article><h1>How To Increase Your Willpower - The nuSchool</h1><p>Albert Einstein famously said that genius is 1% talent and 99% hard work. That's probably true, but I've noticed something else about hard work: first of all, it's not easy to do. Secondly, most people try to avoid hard work at all cost, even the talented ones.</p><img src="http://d3i6t9ktpqo56g.cloudfront.net/wp-content/uploads/2015/05/willpower.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.theregister.co.uk/2015/08/10/htc_caught_storing_fingerprints_as_worldreadable_cleartext/</link>
             <guid isPermaLink="false">7ff48a44-3833-472e-9dbd-bbcbd2529d08</guid>
             <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teaching CSS]]></title>
-            <description><![CDATA[<article><h1>Teaching CSS</h1><p>To my surprise, my daughter asked me if I would teach her how to build a web site today. She more or less wants a blog to keep track of what is going on at a recess club she made at school: regular notes, calendar, things like that.</p><img src="http://www.bleonard.com/images/dp.jpg"></article>]]></description>
-            <link>http://www.bleonard.com/blog/2015/08/01/teaching-css/</link>
-            <guid isPermaLink="false">05d588b0-f2d3-400a-91d1-588535d7f181</guid>
-            <pubDate>Wed, 05 Aug 2015 13:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
