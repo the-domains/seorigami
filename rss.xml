@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Aug 2015 14:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2015 14:19:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The ampersand & a killer Sass feature]]></title>
+            <description><![CDATA[<article><h1>The ampersand & a killer Sass feature</h1><p>Earlier tonight Adam Stacoviak posted something on his blog about the killer feature that is the ampersand in the Sass CSS meta-language. Go read it immediately. Go. I'll wait here. So - to boil this down ... the "&" tells sass to pull the entire parent selector into where you place this beautiful little ampersand.</p><img src="http://www.joeloliveira.com/images/joel.png"></article>]]></description>
+            <link>http://www.joeloliveira.com/2011/06/28/the-ampersand-a-killer-sass-feature/</link>
+            <guid isPermaLink="false">79c76acc-f684-4286-b957-78b209cd9e2f</guid>
+            <pubDate>Tue, 18 Aug 2015 14:18:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.4cdn.org/x/1439801302192.jpg">]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>The ultimate guide to learning anything faster</h1><p>If only. For many of us, there are more things we want to learn than we have time. As information becomes more readily accesible online, the number of things we want to learn is only continuing to increase. And the only variable we can control is the amount of time we spend learning them.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/learning.jpg"></article>]]></description>
             <link>http://thenextweb.com/lifehacks/2015/06/07/the-ultimate-guide-to-learning-anything-faster/</link>
             <guid isPermaLink="false">cb545d05-6801-48fc-a839-3e5cf6704a38</guid>
-            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTC caught storing fingerprints AS WORLD-READABLE CLEARTEXT]]></title>
-            <description><![CDATA[<article><h1>HTC caught storing fingerprints AS WORLD-READABLE CLEARTEXT</h1><p>Skip to content Four FireEye researchers have found a way to steal fingerprints from Android phones packing biometric sensors such as the Samsung Galaxy S5 and the HTC One Max. The team found a forehead-slapping flaw in HTC One Max in which fingerprints are stored as an image file ( dbgraw.bmp) in a open "world readable" folder.</p><img src="https://regmedia.co.uk/2015/01/29/android_toys.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2015/08/10/htc_caught_storing_fingerprints_as_worldreadable_cleartext/</link>
-            <guid isPermaLink="false">7ff48a44-3833-472e-9dbd-bbcbd2529d08</guid>
             <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
         </item>
     </channel>
