@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Aug 2015 14:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 21:21:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Evolving the Google Identity]]></title>
+            <description><![CDATA[<article><h1>Evolving the Google Identity</h1><p>Google is not a conventional company. Our mission-to take the world's information and make it universally accessible and useful-continues to evolve. Last year we introduced Material Design to help designers and developers embrace an expanding, multi-device, multi-screen world.</p><img src="https://g-design.storage.googleapis.com/production/v5/assets/g-share.gif"></article>]]></description>
+            <link>https://design.google.com/articles/evolving-the-google-identity/</link>
+            <guid isPermaLink="false">b8661d16-d12b-49f2-93b6-9cc7220953dd</guid>
+            <pubDate>Thu, 03 Sep 2015 21:20:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The ampersand & a killer Sass feature]]></title>
             <description><![CDATA[<article><h1>The ampersand & a killer Sass feature</h1><p>Earlier tonight Adam Stacoviak posted something on his blog about the killer feature that is the ampersand in the Sass CSS meta-language. Go read it immediately. Go. I'll wait here. So - to boil this down ... the "&" tells sass to pull the entire parent selector into where you place this beautiful little ampersand.</p><img src="http://www.joeloliveira.com/images/joel.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<p>Through</p>]]></description>
             <link>https://thegrid.ai/seorigami/through/index.html</link>
             <guid isPermaLink="false">7c62757e-f7f4-4678-b787-e343cf17b9cf</guid>
-            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ultimate guide to learning anything faster]]></title>
-            <description><![CDATA[<article><h1>The ultimate guide to learning anything faster</h1><p>If only. For many of us, there are more things we want to learn than we have time. As information becomes more readily accesible online, the number of things we want to learn is only continuing to increase. And the only variable we can control is the amount of time we spend learning them.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/learning.jpg"></article>]]></description>
-            <link>http://thenextweb.com/lifehacks/2015/06/07/the-ultimate-guide-to-learning-anything-faster/</link>
-            <guid isPermaLink="false">cb545d05-6801-48fc-a839-3e5cf6704a38</guid>
             <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
         </item>
     </channel>
