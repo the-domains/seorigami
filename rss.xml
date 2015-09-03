@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 21:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 21:21:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Dismaland: A First Look Inside Banksy's New Art Exhibition Housed Inside a Dystopian Theme Park]]></title>
+            <description><![CDATA[<article><h1>Welcome to Dismaland: A First Look Inside Banksy's New Art Exhibition Housed Inside a Dystopian Theme Park</h1><p>WESTON-SUPER-MARE - Inside the walls of a derelict seaside swimming resort in Weston-super-Mare, UK, mysterious construction over the last month-including a dingy looking Disney-like castle and a gargantuan rainbow-colored pinwheel tangled in plastic-suggested something big was afoot. Suspicion and anticipation surrounding the unusual activity attributed to fabled artist and provocateur Banksy has reached a Willy Wonka-esque fervor.</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2015/08/disma-9.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/2015/08/dismaland/?utm_source=feedly&amp;utm_medium=webfeeds</link>
+            <guid isPermaLink="false">2a8130e9-9f9d-4cb5-aa2c-bab18656411c</guid>
+            <pubDate>Thu, 03 Sep 2015 21:20:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Evolving the Google Identity]]></title>
             <description><![CDATA[<article><h1>Evolving the Google Identity</h1><p>Google is not a conventional company. Our mission-to take the world's information and make it universally accessible and useful-continues to evolve. Last year we introduced Material Design to help designers and developers embrace an expanding, multi-device, multi-screen world.</p><img src="https://g-design.storage.googleapis.com/production/v5/assets/g-share.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Use this tool to check your code's browser compatibility</h1><p>Browser compatibility is something all Web developers spend a lot of time working on. A handy Node package makes it easy to see if the shiny new feature you're trying out is compatible with enough browsers to implement it.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/DSCF1448.jpg"></article>]]></description>
             <link>http://thenextweb.com/dd/2015/08/10/use-this-handy-command-line-tool-to-check-if-your-code-works-across-browsers/</link>
             <guid isPermaLink="false">1aa664f6-949c-4b7a-8be5-d35883262648</guid>
-            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Through</p>]]></description>
-            <link>https://thegrid.ai/seorigami/through/index.html</link>
-            <guid isPermaLink="false">7c62757e-f7f4-4678-b787-e343cf17b9cf</guid>
             <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
         </item>
     </channel>
