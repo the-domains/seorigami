@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Oct 2015 13:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2015 13:36:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artist Christian Pierini Creates Fantastic and Detailed Portraits Using Instruments and Objects]]></title>
+            <description><![CDATA[<article><h1>Artist Christian Pierini Creates Fantastic and Detailed Portraits Using Instruments and Objects</h1><p>Christian Pierini Macêna or Mr (C) is the CEO of Union Groups and Artists Theatre West Zone and also he is a producer, cultural and visual arts teacher and musician.</p><img src="http://main-designyoutrust.netdna-ssl.com/wp-content/uploads/2015/09/111115.jpg"></article>]]></description>
+            <link>http://designyoutrust.com/2015/09/artist-christian-pierini-creates-fantastic-and-detailed-portraits-using-instruments-and-objects/</link>
+            <guid isPermaLink="false">8e9d247f-d970-4a47-8b2b-ffbfa370d437</guid>
+            <pubDate>Fri, 02 Oct 2015 13:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The future of cards in Web design]]></title>
             <description><![CDATA[<article><h1>The future of cards in Web design</h1><p>You've been seeing those rectangular boxes on a lot of websites lately, right? Those are cards, and they're popping up more and more. But don't mistake cards for being a mere trend or simply eye-candy. Cards are as practical as they are popular - in fact, that's why you're seeing them so often.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/1SPWoAOIrsaPhH88Uup45tBeBvgs0Kpq8MxRN.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.copyblogger.com/digital-sharecropping/?utm_content=buffer4f9d8&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">0270d04a-7c0e-4461-9e12-f920c9c3e0ab</guid>
             <pubDate>Tue, 11 Aug 2015 16:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Felix Woitzel \ WebGL Particle Projection Feedback Soup \\ codedoodl.es]]></title>
-            <description><![CDATA[<article><h1>Felix Woitzel \ WebGL Particle Projection Feedback Soup \\ codedoodl.es</h1><p>This is a multi-stage render-to-texture WebGL shader pipeline experiment, including a GPU particle system, a fluid simulation, many blur levels, one texture feedback loop for reaction-diffusion pattern synthesis, and a final composite shader for recoloring. It's written in plain Vanilla JS as single page with no dependencies - just copy and edit.</p><img src="http://source.codedoodl.es/flexi23/webgl-particle-projection-feedback-soup/thumb.jpg"></article>]]></description>
-            <link>http://codedoodl.es/_/flexi23/webgl-particle-projection-feedback-soup/</link>
-            <guid isPermaLink="false">0f94b13d-cd69-4f79-9a88-7f99045eaa47</guid>
-            <pubDate>Tue, 11 Aug 2015 16:10:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
