@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Oct 2015 13:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2015 13:36:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Find Queries Per URL Using The Search Analytics Report In Google Search Console (GSC)]]></title>
+            <description><![CDATA[<article><h1>How To Find Queries Per URL Using The Search Analytics Report In Google Search Console (GSC)</h1><p>When analyzing Google organic traffic to your site, it's important to understand both the queries leading to your site and which pages are ranking for those queries. By doing so, you can start to determine how users are searching for the topic at hand and the differences in query by device.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/keywords-ss-19201.jpg"></article>]]></description>
+            <link>http://searchengineland.com/find-queries-per-url-using-search-analytics-report-google-search-console-gsc-231198</link>
+            <guid isPermaLink="false">7d0edf74-a99f-4be8-9452-42ee502d714b</guid>
+            <pubDate>Fri, 02 Oct 2015 13:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our fears as designers, and 3 methods to conquer them]]></title>
             <description><![CDATA[<article><h1>Our fears as designers, and 3 methods to conquer them</h1><p>Let's start with a question. How many times have you had one (or even all) of the following thoughts? - "What if they won't like my design?" (near future fears) - "What will be of my career in a year from now?"</p><img src="http://static.hackingui.com.s3.amazonaws.com/2015/09/fears-social.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/seorigami/48b71d0c-6c56-47d9-82da-5d708e644a7b/index.html</link>
             <guid isPermaLink="false">48b71d0c-6c56-47d9-82da-5d708e644a7b</guid>
             <pubDate>Tue, 18 Aug 2015 14:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Increase Your Willpower - The nuSchool]]></title>
-            <description><![CDATA[<article><h1>How To Increase Your Willpower - The nuSchool</h1><p>Albert Einstein famously said that genius is 1% talent and 99% hard work. That's probably true, but I've noticed something else about hard work: first of all, it's not easy to do. Secondly, most people try to avoid hard work at all cost, even the talented ones.</p><img src="http://d3i6t9ktpqo56g.cloudfront.net/wp-content/uploads/2015/05/willpower.jpg"></article>]]></description>
-            <link>http://thenuschool.com/how-to-increase-your-willpower/?utm_source=designernews</link>
-            <guid isPermaLink="false">8283e12e-1ed8-4ce9-9f79-7c4e8416bcb2</guid>
-            <pubDate>Wed, 12 Aug 2015 13:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
