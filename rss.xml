@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 21:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2015 13:35:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Write Meta Descriptions for SEO | Raven]]></title>
+            <description><![CDATA[<article><h1>How To Write Meta Descriptions for SEO | Raven</h1><p>They're easy to ignore and time consuming to write. But well-written meta descriptions - a.k.a. snippets - can strongly influence the amount of traffic that your website receives from a specific search result. It's important to know what details they should contain, in what format, so that machines can read them easily and display the correct information.</p><img src="http://blog.raventools.com/wp-content/uploads/2014/01/meta-description-robot.jpg"></article>]]></description>
+            <link>http://blog.raventools.com/meta-descriptions-how-to-guide/</link>
+            <guid isPermaLink="false">a5751570-42ef-4af6-85f9-2a65e82e321e</guid>
+            <pubDate>Fri, 02 Oct 2015 13:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch internet randos play a real-life first-person shooter on Chatroulette]]></title>
             <description><![CDATA[<article><h1>Watch internet randos play a real-life first-person shooter on Chatroulette</h1><p>How would you survive the zombie apocalypse? We've all thought about it, but British-based studio Realm Pictures has allowed a handful of internet randos the chance to live it. Using anonymous chat sites Chatroulette and Omegle, with some extra help from Skype callers, the studio put together a real-time choose-your-own adventure dressed up in the style of a video game first-person shooter.</p><img src="https://cdn3.vox-cdn.com/thumbor/UWYFfOP5MzGRMP5rh5jHVh46aLI=/25x0:1413x781/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47002090/fps-video.0.0.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://searchengineland.com/16-secrets-guerrilla-local-seo-227029</link>
             <guid isPermaLink="false">78a6cb84-1032-4fde-b11f-d9a6674b7a0d</guid>
             <pubDate>Tue, 11 Aug 2015 16:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Your Gym Is An Arcade, And Your Arcade Says You Have Cancer]]></title>
-            <description><![CDATA[<article><h1>When Your Gym Is An Arcade, And Your Arcade Says You Have Cancer</h1><p>What if going in for a medical checkup didn't involve waiting in a sterile white room decorated with cotton balls and otoscope attachments? What if, instead, you could step up to play a game, as if you're visiting an old-school arcade?</p><img src="http://d.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2015/08/3049621-poster-p-1-when-your-gym-is-an-arcade-and-your-arcade-says-you-have-cancer.gif"></article>]]></description>
-            <link>http://www.fastcodesign.com/3049621/when-your-gym-is-an-arcade-and-your-arcade-says-you-have-cancer?partner=rss</link>
-            <guid isPermaLink="false">f3874726-9914-4aa3-9d96-8eccb283dcdc</guid>
-            <pubDate>Tue, 11 Aug 2015 16:10:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
