@@ -5,8 +5,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Oct 2015 13:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2015 13:36:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[6 Web Design Trends You Must Know for 2015 & 2016]]></title>
+            <description><![CDATA[<article><h1>6 Web Design Trends You Must Know for 2015 & 2016</h1><p>Who can forget the GIFs of the '90s, or the more up-to-date focus on flat design? Recently, we've seen a surge in popularity of responsive web design, as more and more sites join the drive to become 'mobile ready' which is now even more important in the wake of Google's Mobile Friendly update.</p><img src="http://www.awwwards.com/awards/gallery/2015/09/6-web-design-trends-awwwards-image02-1.png"></article>]]></description>
+            <link>http://www.awwwards.com/6-web-design-trends-you-must-know-for-2015-2016.html</link>
+            <guid isPermaLink="false">3412bcbd-aa90-4846-87d6-a5256075c6fd</guid>
+            <pubDate>Fri, 02 Oct 2015 13:34:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Find Queries Per URL Using The Search Analytics Report In Google Search Console (GSC)]]></title>
             <description><![CDATA[<article><h1>How To Find Queries Per URL Using The Search Analytics Report In Google Search Console (GSC)</h1><p>When analyzing Google organic traffic to your site, it's important to understand both the queries leading to your site and which pages are ranking for those queries. By doing so, you can start to determine how users are searching for the topic at hand and the differences in query by device.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/keywords-ss-19201.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>The ampersand & a killer Sass feature</h1><p>Earlier tonight Adam Stacoviak posted something on his blog about the killer feature that is the ampersand in the Sass CSS meta-language. Go read it immediately. Go. I'll wait here. So - to boil this down ... the "&" tells sass to pull the entire parent selector into where you place this beautiful little ampersand.</p><img src="http://www.joeloliveira.com/images/joel.png"></article>]]></description>
             <link>http://www.joeloliveira.com/2011/06/28/the-ampersand-a-killer-sass-feature/</link>
             <guid isPermaLink="false">79c76acc-f684-4286-b957-78b209cd9e2f</guid>
-            <pubDate>Tue, 18 Aug 2015 14:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.4cdn.org/x/1439801302192.jpg">]]></description>
-            <link>https://thegrid.ai/seorigami/48b71d0c-6c56-47d9-82da-5d708e644a7b/index.html</link>
-            <guid isPermaLink="false">48b71d0c-6c56-47d9-82da-5d708e644a7b</guid>
             <pubDate>Tue, 18 Aug 2015 14:18:27 GMT</pubDate>
         </item>
     </channel>
