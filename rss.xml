@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:07:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gulp and FTP: update a website "on the fly"]]></title>
+            <description><![CDATA[<article><h1>Gulp and FTP: update a website "on the fly"</h1><p>In this post I will explain you how to use Gulp to interact with the files on your server through FTP. You will learn how to watch the files you are editing on your local machine and automatically synchronize them with your server as they change and how to setup a task to launch an FTP deploy on demand.</p><img src="http://loige.co/content/images/2015/10/gulp-and-ftp-update-a-website-on-the-fly-1.png"></article>]]></description>
+            <link>http://loige.co/gulp-and-ftp-update-a-website-on-the-fly/</link>
+            <guid isPermaLink="false">44fcce78-5a13-48e9-9c3e-0c6ad6b21360</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jank Free]]></title>
             <description><![CDATA[<article><h1>Jank Free</h1><p>Modern browsers try to refresh the content on screen in sync with a device's refresh rate. For most devices today, the screen will refresh 60 times a second, or 60Hz. If there is some motion on screen (such as scrolling, transitions, or animations) a browser should create 60 frames per second to match the refresh rate.</p><img src="http://img.youtube.com/vi/WpqZ0LjNU5A/0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The future of cards in Web design</h1><p>You've been seeing those rectangular boxes on a lot of websites lately, right? Those are cards, and they're popping up more and more. But don't mistake cards for being a mere trend or simply eye-candy. Cards are as practical as they are popular - in fact, that's why you're seeing them so often.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/1SPWoAOIrsaPhH88Uup45tBeBvgs0Kpq8MxRN.png"></article>]]></description>
             <link>http://thenextweb.com/dd/2015/07/15/the-future-of-cards-in-web-design/</link>
             <guid isPermaLink="false">0edf8622-a971-472c-9d18-6967b90cacf8</guid>
-            <pubDate>Fri, 02 Oct 2015 13:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Write Meta Descriptions for SEO | Raven]]></title>
-            <description><![CDATA[<article><h1>How To Write Meta Descriptions for SEO | Raven</h1><p>They're easy to ignore and time consuming to write. But well-written meta descriptions - a.k.a. snippets - can strongly influence the amount of traffic that your website receives from a specific search result. It's important to know what details they should contain, in what format, so that machines can read them easily and display the correct information.</p><img src="http://blog.raventools.com/wp-content/uploads/2014/01/meta-description-robot.jpg"></article>]]></description>
-            <link>http://blog.raventools.com/meta-descriptions-how-to-guide/</link>
-            <guid isPermaLink="false">a5751570-42ef-4af6-85f9-2a65e82e321e</guid>
             <pubDate>Fri, 02 Oct 2015 13:34:57 GMT</pubDate>
         </item>
     </channel>
