@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:08:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Front-end jobs titles]]></title>
+            <description><![CDATA[<article><h1>Front-end jobs titles</h1><p></p></article>]]></description>
+            <link>https://frontendmasters.gitbooks.io/front-end-handbook/content/practice/types-of-front-end-dev.html</link>
+            <guid isPermaLink="false">78baa4e6-2d01-4d61-a49a-e77b3a4bd4df</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AllThingsSmitty/jquery-tips-everyone-should-know]]></title>
             <description><![CDATA[<article><h1>AllThingsSmitty/jquery-tips-everyone-should-know</h1><p>jquery-tips-everyone-should-know - A collection of simple tips to help up your jQuery game</p><img src="https://avatars3.githubusercontent.com/u/1682367?v=3&s=400"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Elastic Progress | Codrops</h1><p>An elastic SVG progress loader based on the Dribbble shot "Download" by xjw and implemented with SVG and TweenMax. View demo Download source Today we'd like to share an interesting progress button effect with you. The effect is based on a very nice Dribbble shot called "Download" by xjw.</p><img src="http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/ElasticProgress.jpg"></article>]]></description>
             <link>http://tympanus.net/codrops/2015/09/23/elastic-progress/</link>
             <guid isPermaLink="false">688dbdcd-80f6-45ad-a47e-86b354e55ae0</guid>
-            <pubDate>Fri, 02 Oct 2015 13:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Web Design Trends You Must Know for 2015 & 2016]]></title>
-            <description><![CDATA[<article><h1>6 Web Design Trends You Must Know for 2015 & 2016</h1><p>Who can forget the GIFs of the '90s, or the more up-to-date focus on flat design? Recently, we've seen a surge in popularity of responsive web design, as more and more sites join the drive to become 'mobile ready' which is now even more important in the wake of Google's Mobile Friendly update.</p><img src="http://www.awwwards.com/awards/gallery/2015/09/6-web-design-trends-awwwards-image02-1.png"></article>]]></description>
-            <link>http://www.awwwards.com/6-web-design-trends-you-must-know-for-2015-2016.html</link>
-            <guid isPermaLink="false">3412bcbd-aa90-4846-87d6-a5256075c6fd</guid>
             <pubDate>Fri, 02 Oct 2015 13:34:58 GMT</pubDate>
         </item>
     </channel>
