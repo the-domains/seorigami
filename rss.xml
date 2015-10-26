@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[SEOrigami]]></title>
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Oct 2015 13:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:06:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Twitter</p>]]></description>
+            <link>https://thegrid.ai/seorigami/twitter/index.html</link>
+            <guid isPermaLink="false">d6503966-a45a-45ed-9f12-7b36dc2cff54</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elastic Progress | Codrops]]></title>
             <description><![CDATA[<article><h1>Elastic Progress | Codrops</h1><p>An elastic SVG progress loader based on the Dribbble shot "Download" by xjw and implemented with SVG and TweenMax. View demo Download source Today we'd like to share an interesting progress button effect with you. The effect is based on a very nice Dribbble shot called "Download" by xjw.</p><img src="http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/ElasticProgress.jpg"></article>]]></description>
@@ -68,13 +74,6 @@
             <description><![CDATA[<article><h1>Welcome to Dismaland: A First Look Inside Banksy's New Art Exhibition Housed Inside a Dystopian Theme Park</h1><p>WESTON-SUPER-MARE - Inside the walls of a derelict seaside swimming resort in Weston-super-Mare, UK, mysterious construction over the last month-including a dingy looking Disney-like castle and a gargantuan rainbow-colored pinwheel tangled in plastic-suggested something big was afoot. Suspicion and anticipation surrounding the unusual activity attributed to fabled artist and provocateur Banksy has reached a Willy Wonka-esque fervor.</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2015/08/disma-9.jpg"></article>]]></description>
             <link>http://www.thisiscolossal.com/2015/08/dismaland/?utm_source=feedly&amp;utm_medium=webfeeds</link>
             <guid isPermaLink="false">2a8130e9-9f9d-4cb5-aa2c-bab18656411c</guid>
-            <pubDate>Thu, 03 Sep 2015 21:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Evolving the Google Identity]]></title>
-            <description><![CDATA[<article><h1>Evolving the Google Identity</h1><p>Google is not a conventional company. Our mission-to take the world's information and make it universally accessible and useful-continues to evolve. Last year we introduced Material Design to help designers and developers embrace an expanding, multi-device, multi-screen world.</p><img src="https://g-design.storage.googleapis.com/production/v5/assets/g-share.gif"></article>]]></description>
-            <link>https://design.google.com/articles/evolving-the-google-identity/</link>
-            <guid isPermaLink="false">b8661d16-d12b-49f2-93b6-9cc7220953dd</guid>
             <pubDate>Thu, 03 Sep 2015 21:20:48 GMT</pubDate>
         </item>
     </channel>
