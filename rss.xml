@@ -4,15 +4,8 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:09:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Security News This Week: US Admits It Uses Predictions, Not Data, to Blacklist Flyers]]></title>
-            <description><![CDATA[<article><h1>Security News This Week: US Admits It Uses Predictions, Not Data, to Blacklist Flyers</h1><p>DefCon may be in the books, but the hacks keep coming. Make sure to keep an eye on your Corvette's brakes, lest you find yourself at a dead stop on the road. It looks like even gas pumps aren't safe from attackers.</p><img src="http://www.wired.com/wp-content/uploads/2015/08/Security_Weekly_01-1200x630-e1439589866894.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/08/security-news-week-us-admits-uses-predictions-not-data-blacklist-flyers/</link>
-            <guid isPermaLink="false">a5d8fd0d-4a92-45ab-80c8-0d9b82f6c33b</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Search</p>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>AllThingsSmitty/jquery-tips-everyone-should-know</h1><p>jquery-tips-everyone-should-know - A collection of simple tips to help up your jQuery game</p><img src="https://avatars3.githubusercontent.com/u/1682367?v=3&s=400"></article>]]></description>
             <link>https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#preload-images</link>
             <guid isPermaLink="false">7d1e8477-cbe5-4734-9551-b0be178a8179</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explain like I'm five: Jekyll collections " Ben Balter]]></title>
+            <description><![CDATA[<article><h1>Explain like I'm five: Jekyll collections " Ben Balter</h1><p>Collections are Jekyll's most powerful and simultaneously least understood feature. If you're not familiar with Jekyll, Jekyll is a static site generator. Think of it like a content management system (CMS), without all the complexity and headache.</p><img src="http://www.gravatar.com/avatar/ea353bd28baa1aefaefae736a19fcf2a%20}}.png?size=100"></article>]]></description>
+            <link>http://ben.balter.com/2015/02/20/jekyll-collections/</link>
+            <guid isPermaLink="false">cd98b8de-0ec8-4a53-a3e2-b0c7d54cfa24</guid>
             <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
         </item>
     </channel>
