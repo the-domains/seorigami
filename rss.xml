@@ -4,8 +4,22 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:07:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jank Free]]></title>
+            <description><![CDATA[<article><h1>Jank Free</h1><p>Modern browsers try to refresh the content on screen in sync with a device's refresh rate. For most devices today, the screen will refresh 60 times a second, or 60Hz. If there is some motion on screen (such as scrolling, transitions, or animations) a browser should create 60 frames per second to match the refresh rate.</p><img src="http://img.youtube.com/vi/WpqZ0LjNU5A/0.jpg"></article>]]></description>
+            <link>http://jankfree.org/</link>
+            <guid isPermaLink="false">6d4a7ac0-2fa0-4fb5-b5f8-3192eb527976</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dissecting Google Conspiracy Theories]]></title>
+            <description><![CDATA[<article><h1>Dissecting Google Conspiracy Theories</h1><p>Part of every professional SEO's job is to read between the lines - to be a conspiracy theorist of sorts. We are required not only to possess tactical skills like researching keyword semantics and using schema markup, but also to predict the future direction of organic search to reveal opportunities and risks within clients' campaigns.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/10/data-future-world-global-eyes-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/google-conspiracy-theories-233289</link>
+            <guid isPermaLink="false">152795a5-d673-45e3-af4e-e11f25cd845d</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Twitter</p>]]></description>
@@ -61,20 +75,6 @@
             <link>http://blog.raventools.com/meta-descriptions-how-to-guide/</link>
             <guid isPermaLink="false">a5751570-42ef-4af6-85f9-2a65e82e321e</guid>
             <pubDate>Fri, 02 Oct 2015 13:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch internet randos play a real-life first-person shooter on Chatroulette]]></title>
-            <description><![CDATA[<article><h1>Watch internet randos play a real-life first-person shooter on Chatroulette</h1><p>How would you survive the zombie apocalypse? We've all thought about it, but British-based studio Realm Pictures has allowed a handful of internet randos the chance to live it. Using anonymous chat sites Chatroulette and Omegle, with some extra help from Skype callers, the studio put together a real-time choose-your-own adventure dressed up in the style of a video game first-person shooter.</p><img src="https://cdn3.vox-cdn.com/thumbor/UWYFfOP5MzGRMP5rh5jHVh46aLI=/25x0:1413x781/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47002090/fps-video.0.0.png"></article>]]></description>
-            <link>http://www.theverge.com/2015/8/20/9185419/watch-real-life-first-person-shooter-chatroulette-omegle</link>
-            <guid isPermaLink="false">a58b9d3e-4d6b-4913-bed4-6b892bd0ef0e</guid>
-            <pubDate>Thu, 03 Sep 2015 21:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Dismaland: A First Look Inside Banksy's New Art Exhibition Housed Inside a Dystopian Theme Park]]></title>
-            <description><![CDATA[<article><h1>Welcome to Dismaland: A First Look Inside Banksy's New Art Exhibition Housed Inside a Dystopian Theme Park</h1><p>WESTON-SUPER-MARE - Inside the walls of a derelict seaside swimming resort in Weston-super-Mare, UK, mysterious construction over the last month-including a dingy looking Disney-like castle and a gargantuan rainbow-colored pinwheel tangled in plastic-suggested something big was afoot. Suspicion and anticipation surrounding the unusual activity attributed to fabled artist and provocateur Banksy has reached a Willy Wonka-esque fervor.</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2015/08/disma-9.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/2015/08/dismaland/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">2a8130e9-9f9d-4cb5-aa2c-bab18656411c</guid>
-            <pubDate>Thu, 03 Sep 2015 21:20:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
