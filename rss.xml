@@ -4,15 +4,8 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:08:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to Get Started Self-teaching Graphic Design - Simplified - Tim Brown]]></title>
-            <description><![CDATA[<article><h1>How to Get Started Self-teaching Graphic Design - Simplified - Tim Brown</h1><p>I was taught Graphic and Web Design at a college, but since I've graduated I've outlined mini curriculum's for myself to gain deeper knowledge in subjects as varied as sales, Information Architecture, User Experience, Search Engine Optimization, client relationships, hand-lettering, logo design, and conversion optimization. In short, I'm a lifetime learner.</p><img src="https://timbdesign.com/wp-content/uploads/2015/10/how-to-get-started-self-teaching-graphic-design-simplified1.jpg"></article>]]></description>
-            <link>https://timbdesign.com/how-to-get-started-self-teaching-graphic-design-simplified/?utm_content=bufferd20c1&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">c6cf8252-6cfa-42b0-a9d4-fbbaf623aa7f</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why Google Rewards Re-Publishing - Whiteboard Friday]]></title>
             <description><![CDATA[<article><h1>Why Google Rewards Re-Publishing - Whiteboard Friday</h1><p>In this week's Whiteboard Friday, Rand dives into the topic of republishing and why Google rewards it so much. As an underutilized tactic in SEO and in content creation, republishing should have a place in your strategy; take the time to identify your goals and discover the process that's best for your site.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/561ff782a755e9.97426922.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Jank Free</h1><p>Modern browsers try to refresh the content on screen in sync with a device's refresh rate. For most devices today, the screen will refresh 60 times a second, or 60Hz. If there is some motion on screen (such as scrolling, transitions, or animations) a browser should create 60 frames per second to match the refresh rate.</p><img src="http://img.youtube.com/vi/WpqZ0LjNU5A/0.jpg"></article>]]></description>
             <link>http://jankfree.org/</link>
             <guid isPermaLink="false">6d4a7ac0-2fa0-4fb5-b5f8-3192eb527976</guid>
+            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dissecting Google Conspiracy Theories]]></title>
+            <description><![CDATA[<article><h1>Dissecting Google Conspiracy Theories</h1><p>Part of every professional SEO's job is to read between the lines - to be a conspiracy theorist of sorts. We are required not only to possess tactical skills like researching keyword semantics and using schema markup, but also to predict the future direction of organic search to reveal opportunities and risks within clients' campaigns.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/10/data-future-world-global-eyes-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/google-conspiracy-theories-233289</link>
+            <guid isPermaLink="false">152795a5-d673-45e3-af4e-e11f25cd845d</guid>
             <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
         </item>
     </channel>
