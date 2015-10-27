@@ -2,6 +2,7 @@ name: SEOrigami
 favicon: null
 layout_spectrum: 0.82597
 typography_spectrum: 0.39611
+title: 'SEOrigami: The blog.'
 cta:
   domain: null
   bucket: null
