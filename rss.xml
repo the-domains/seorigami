@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SEOrigami]]></title>
-        <description><![CDATA[SEOrigami]]></description>
+        <title><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></title>
+        <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 19:53:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Search</p>]]></description>
-            <link>https://thegrid.ai/seorigami/search/index.html</link>
-            <guid isPermaLink="false">ec7d75d3-8591-419c-9761-129956caf905</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[A Practical Guide]]></title>
+            <description><![CDATA[<article><h1>A Practical Guide</h1><p>Preparing an SVG for use on the web is a simple process and no more complicated that exporting a JPEG or PNG. Work as you typically would in your preferred vector graphics editor (Illustrator, Sketch, Inkscape [free], etc [or even Photoshop if you use shape layers]) with the graphic at the size that you expect to use it.</p><img src="https://svgontheweb.com/assets/img/2point.png"></article>]]></description>
+            <link>https://svgontheweb.com/#implementation</link>
+            <guid isPermaLink="false">96355b86-a678-4147-8454-bb4664499701</guid>
+            <pubDate>Fri, 06 Nov 2015 19:52:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Legends of the Glitch]]></title>
-            <description><![CDATA[<article><h1>Legends of the Glitch</h1><p>German creative Neatful just completed the project Legends of the Glitch which confronts the art of glitch and the most famous cars of the 80's pop cultur</p><img src="http://www.fubiz.net/wp-content/uploads/2015/10/neatful-1-639x0.jpg"></article>]]></description>
-            <link>http://www.fubiz.net/en/2015/10/13/legends-of-the-glitch/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">1d9dbdea-04ec-4796-b1b1-312c7d4fd1f9</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[Cinco 2.5]]></title>
+            <description><![CDATA[<article><h1>Cinco 2.5</h1><img src="http://i3.ytimg.com/vi/MHWBEK8w_YY/hqdefault.jpg"></article>]]></description>
+            <link>http://celeryman.alexmeub.com/</link>
+            <guid isPermaLink="false">d63aef79-76b6-44ce-a718-e2bbdc3cab26</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[An artist turned his movie title typos into an illustrated book]]></title>
-            <description><![CDATA[<article><h1>An artist turned his movie title typos into an illustrated book</h1><p>When Mashable last spoke to Austin Light, his work had just gone viral after he took inspiration from a Reddit thread and changed entire movie plots just by removing one letter from their title. Now, Light's movie title typos have been compiled into a new book full of his own illustrations.</p><img src="http://rack.3.mshcdn.com/media/ZgkyMDE1LzEwLzAyLzhlL3Jvbm1hbi42NGNjZi5qcGcKcAl0aHVtYgkxMjAweDYyNyMKZQlqcGc/e490817c/d4f/ron-man.jpg"></article>]]></description>
-            <link>http://mashable.com/2015/10/02/movie-title-typos/#QngVgXahgsq.</link>
-            <guid isPermaLink="false">c4dc7b0c-eb65-4ce3-a1da-394b0bcbeb82</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[Playable Tetris Pumpkin By Nathan From HahaBird]]></title>
+            <description><![CDATA[<article><h1>Playable Tetris Pumpkin By Nathan From HahaBird</h1><p>A blog about Advertising, Goodvertising, Architecture, Art, Graphics, Design, Movies, Music, Photography and Fashion</p><img src="http://a.theinspiration.com/wp-content/uploads/pump-1.jpg"></article>]]></description>
+            <link>http://www.theinspiration.com/2015/10/playable-tetris-pumpkin-nathan-hahabird/</link>
+            <guid isPermaLink="false">74a7d019-11d6-41a3-93c6-2726f4dba331</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>impact</p>]]></description>
-            <link>https://thegrid.ai/seorigami/impact/index.html</link>
-            <guid isPermaLink="false">1aeaeb08-5170-4c2e-a347-98ced07914a3</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[FAQ: All About The New Google RankBrain Algorithm]]></title>
+            <description><![CDATA[<article><h1>FAQ: All About The New Google RankBrain Algorithm</h1><p>Yesterday, news emerged that Google was using a machine-learning artificial intelligence system called "RankBrain" to help sort through its search results. Wondering how that works and fits in with Google's overall ranking system? Here's what we know about RankBrain. The information covered below comes from three sources.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-fade-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440</link>
+            <guid isPermaLink="false">62726d6f-052e-458c-a022-40c52e5e187e</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to Get Started Self-teaching Graphic Design - Simplified - Tim Brown]]></title>
-            <description><![CDATA[<article><h1>How to Get Started Self-teaching Graphic Design - Simplified - Tim Brown</h1><p>I was taught Graphic and Web Design at a college, but since I've graduated I've outlined mini curriculum's for myself to gain deeper knowledge in subjects as varied as sales, Information Architecture, User Experience, Search Engine Optimization, client relationships, hand-lettering, logo design, and conversion optimization. In short, I'm a lifetime learner.</p><img src="https://timbdesign.com/wp-content/uploads/2015/10/how-to-get-started-self-teaching-graphic-design-simplified1.jpg"></article>]]></description>
-            <link>https://timbdesign.com/how-to-get-started-self-teaching-graphic-design-simplified/?utm_content=bufferd20c1&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">c6cf8252-6cfa-42b0-a9d4-fbbaf623aa7f</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[Visualize Sketch 3.4 New Features]]></title>
+            <description><![CDATA[<article><h1>Visualize Sketch 3.4 New Features</h1><p>A free significant update of Sketch is released yesterday in version 3.4 and have tons of new features and bug fixes that will help improve your design workflow. I'm using GIF to show the features which similar to what Clark Wimberly has done here.</p><img src="http://kwangyik.com/content/images/2015/10/sketch-3-4-mask-indicator.gif"></article>]]></description>
+            <link>http://kwangyik.com/2015/10/28/visualize-sketch-3-4-new-features/</link>
+            <guid isPermaLink="false">2e452004-057e-4d22-a96a-0d30885f1d68</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Google Rewards Re-Publishing - Whiteboard Friday]]></title>
-            <description><![CDATA[<article><h1>Why Google Rewards Re-Publishing - Whiteboard Friday</h1><p>In this week's Whiteboard Friday, Rand dives into the topic of republishing and why Google rewards it so much. As an underutilized tactic in SEO and in content creation, republishing should have a place in your strategy; take the time to identify your goals and discover the process that's best for your site.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/561ff782a755e9.97426922.jpg"></article>]]></description>
-            <link>https://moz.com/blog/why-google-rewards-re-publishing-whiteboard-friday</link>
-            <guid isPermaLink="false">17d3ebf5-94cd-43d6-bcf4-629412e13b03</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[Link Building Outreach in a Skeptical World - Whiteboard Friday]]></title>
+            <description><![CDATA[<article><h1>Link Building Outreach in a Skeptical World - Whiteboard Friday</h1><p>Outreach. It's the most important part of the link building process-and also the most grueling. Good personalized outreach is impossible to scale, and it's easy to fall into a rut. What can you do to maximize your success rate and to stand out from the crowd?</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/56293ea16e8ba4.33890264.jpg"></article>]]></description>
+            <link>https://moz.com/blog/link-building-outreach-in-a-skeptical-world-whiteboard-friday</link>
+            <guid isPermaLink="false">1ea6d6a7-008a-4fea-9c15-57535b6962e4</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Latest In Advanced Technical SEO: SMX East Recap]]></title>
-            <description><![CDATA[<article><h1>The Latest In Advanced Technical SEO: SMX East Recap</h1><p>For experienced SEO practitioners looking for advice on how to tackle complex technical issues, "The Latest In Advanced Technical SEO" was the panel to attend at SMX East. This session brought together seasoned industry veterans to discuss the challenges and opportunities that come with advanced technical search engine optimization, and the panelists had some great insights into solving and preventing technical SEO issues.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/08/code-javascript-ajax-ss-1920.jpg"></article>]]></description>
-            <link>http://searchengineland.com/latest-advanced-technical-seo-smx-east-recap-232151</link>
-            <guid isPermaLink="false">c7869056-fa08-4349-88cc-8babac313ae8</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[TypeSource]]></title>
+            <description><![CDATA[<article><h1>TypeSource</h1><p>TypeSource | Google Web Font inspiration in HTML & CSS</p><img src="http://tobiasahlin.com/images/typesource/og.jpg"></article>]]></description>
+            <link>http://tobiasahlin.com/typesource/</link>
+            <guid isPermaLink="false">3cfca5d2-ef82-4c90-b114-9a066fd3340f</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Front-end jobs titles]]></title>
-            <description><![CDATA[<article><h1>Front-end jobs titles</h1><p></p></article>]]></description>
-            <link>https://frontendmasters.gitbooks.io/front-end-handbook/content/practice/types-of-front-end-dev.html</link>
-            <guid isPermaLink="false">78baa4e6-2d01-4d61-a49a-e77b3a4bd4df</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:47 GMT</pubDate>
+            <title><![CDATA[Glitched Trees Photography]]></title>
+            <description><![CDATA[<article><h1>Glitched Trees Photography</h1><p>Based in Norway, photographer Øystein Sture Aspelund is the author of the series Arise he made by exploring the verticality of nature. Like the trees that rise</p><img src="http://www.fubiz.net/wp-content/uploads/2015/08/arise--639x0.jpg"></article>]]></description>
+            <link>http://www.fubiz.net/en/2015/08/18/glitched-trees-photography/?utm_source=feedly&amp;utm_medium=webfeeds</link>
+            <guid isPermaLink="false">d2333bb4-2ca4-481c-ba34-0f97fcb2fe1f</guid>
+            <pubDate>Tue, 27 Oct 2015 12:58:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AllThingsSmitty/jquery-tips-everyone-should-know]]></title>
-            <description><![CDATA[<article><h1>AllThingsSmitty/jquery-tips-everyone-should-know</h1><p>jquery-tips-everyone-should-know - A collection of simple tips to help up your jQuery game</p><img src="https://avatars3.githubusercontent.com/u/1682367?v=3&s=400"></article>]]></description>
-            <link>https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#preload-images</link>
-            <guid isPermaLink="false">7d1e8477-cbe5-4734-9551-b0be178a8179</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+            <title><![CDATA[Connected kettles boil over, spill Wi-Fi passwords over London]]></title>
+            <description><![CDATA[<article><h1>Connected kettles boil over, spill Wi-Fi passwords over London</h1><p>A security man has mapped and hacked insecure connected kettles across London, proving they can leak WiFi passwords. The iKettle is designed to save users precious seconds spent waiting for water to boil by allowing the kitchen staple to be turned on using a smartphone app.</p><img src="https://regmedia.co.uk/2014/08/28/ikettle_smart_kettle.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2015/10/19/bods_brew_ikettle_20_hack_plot_vulnerable_london_pots/</link>
+            <guid isPermaLink="false">3b6bc951-99cb-4583-8770-7d2ffd77835d</guid>
+            <pubDate>Tue, 27 Oct 2015 12:58:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Explain like I'm five: Jekyll collections " Ben Balter]]></title>
-            <description><![CDATA[<article><h1>Explain like I'm five: Jekyll collections " Ben Balter</h1><p>Collections are Jekyll's most powerful and simultaneously least understood feature. If you're not familiar with Jekyll, Jekyll is a static site generator. Think of it like a content management system (CMS), without all the complexity and headache.</p><img src="http://www.gravatar.com/avatar/ea353bd28baa1aefaefae736a19fcf2a%20}}.png?size=100"></article>]]></description>
-            <link>http://ben.balter.com/2015/02/20/jekyll-collections/</link>
-            <guid isPermaLink="false">cd98b8de-0ec8-4a53-a3e2-b0c7d54cfa24</guid>
-            <pubDate>Mon, 26 Oct 2015 17:05:46 GMT</pubDate>
+            <title><![CDATA[Opt-in Transparency]]></title>
+            <description><![CDATA[<article><h1>Opt-in Transparency</h1><p>Behold... a great way to make your employees feel like shit: Employee: Yeah... I just don't really understand why we're building it out this way. It doesn't really make sense, and I think it's going to ultimately be harmful for the company. Manager: Just build it, please.</p><img src="http://zachholman.com/images/logo-invert.png"></article>]]></description>
+            <link>http://zachholman.com/posts/opt-in-transparency/</link>
+            <guid isPermaLink="false">a5b621b5-9344-4390-8097-66c40874d48b</guid>
+            <pubDate>Tue, 27 Oct 2015 12:58:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
