@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 19:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 19:54:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Use, compare & test responsive frameworks. Find code snippets & examples.</p>]]></description>
+            <link>https://thegrid.ai/seorigami/use-compare-and-test-responsive-frameworks-find-code-snippet/index.html</link>
+            <guid isPermaLink="false">1b87d6ac-a808-47a9-bdd0-a141a93bac87</guid>
+            <pubDate>Fri, 06 Nov 2015 19:52:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hemingway Editor]]></title>
             <description><![CDATA[<article><h1>Hemingway Editor</h1><p>Hemingway highlights long, complex sentences and common errors; if you see a yellow highlight, shorten the sentence or split it. If you see a red highlight, your sentence is so dense and complicated that your readers will get lost trying to follow its meandering, splitting logic - try editing this sentence to remove the red.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Glitched Trees Photography</h1><p>Based in Norway, photographer Øystein Sture Aspelund is the author of the series Arise he made by exploring the verticality of nature. Like the trees that rise</p><img src="http://www.fubiz.net/wp-content/uploads/2015/08/arise--639x0.jpg"></article>]]></description>
             <link>http://www.fubiz.net/en/2015/08/18/glitched-trees-photography/?utm_source=feedly&amp;utm_medium=webfeeds</link>
             <guid isPermaLink="false">d2333bb4-2ca4-481c-ba34-0f97fcb2fe1f</guid>
-            <pubDate>Tue, 27 Oct 2015 12:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connected kettles boil over, spill Wi-Fi passwords over London]]></title>
-            <description><![CDATA[<article><h1>Connected kettles boil over, spill Wi-Fi passwords over London</h1><p>A security man has mapped and hacked insecure connected kettles across London, proving they can leak WiFi passwords. The iKettle is designed to save users precious seconds spent waiting for water to boil by allowing the kitchen staple to be turned on using a smartphone app.</p><img src="https://regmedia.co.uk/2014/08/28/ikettle_smart_kettle.jpg?x=1200&y=794"></article>]]></description>
-            <link>http://www.theregister.co.uk/2015/10/19/bods_brew_ikettle_20_hack_plot_vulnerable_london_pots/</link>
-            <guid isPermaLink="false">3b6bc951-99cb-4583-8770-7d2ffd77835d</guid>
             <pubDate>Tue, 27 Oct 2015 12:58:11 GMT</pubDate>
         </item>
     </channel>
