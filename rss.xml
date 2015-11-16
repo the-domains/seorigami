@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 13:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 13:47:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Classic Albums drawn by Six-Years Old Artist]]></title>
+            <description><![CDATA[<article><h1>Classic Albums drawn by Six-Years Old Artist</h1><p>À l'âge de six ans, Nicolina Lorenza Vachetti, cousine du célèbre graphiste argentin Tano Veron semble marcher sur les pas de son aîné. C'est</p><img src="http://www.fubiz.net/wp-content/uploads/2015/11/tanoveron-639x0.jpg"></article>]]></description>
+            <link>http://www.fubiz.net/2015/11/13/classic-albums-drawn-by-six-years-old-artist/</link>
+            <guid isPermaLink="false">8fc3756a-b6d0-4708-9918-876600cc0f53</guid>
+            <pubDate>Mon, 16 Nov 2015 13:45:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can You Now Trust Google To Crawl Ajax Sites?]]></title>
             <description><![CDATA[<article><h1>Can You Now Trust Google To Crawl Ajax Sites?</h1><p>On October 14, Google announced it no longer recommends the Ajax crawling scheme they published in 2009. Columnist Mark Munroe dives into the question of whether this means you can now count on Google to successfully crawl and index an Ajax site.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/01/javascript-js-ss-1920.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Link Building Outreach in a Skeptical World - Whiteboard Friday</h1><p>Outreach. It's the most important part of the link building process-and also the most grueling. Good personalized outreach is impossible to scale, and it's easy to fall into a rut. What can you do to maximize your success rate and to stand out from the crowd?</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/56293ea16e8ba4.33890264.jpg"></article>]]></description>
             <link>https://moz.com/blog/link-building-outreach-in-a-skeptical-world-whiteboard-friday</link>
             <guid isPermaLink="false">1ea6d6a7-008a-4fea-9c15-57535b6962e4</guid>
-            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TypeSource]]></title>
-            <description><![CDATA[<article><h1>TypeSource</h1><p>TypeSource | Google Web Font inspiration in HTML & CSS</p><img src="http://tobiasahlin.com/images/typesource/og.jpg"></article>]]></description>
-            <link>http://tobiasahlin.com/typesource/</link>
-            <guid isPermaLink="false">3cfca5d2-ef82-4c90-b114-9a066fd3340f</guid>
             <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
     </channel>
