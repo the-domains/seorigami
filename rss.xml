@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></title>
+        <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
+        <link>https://thegrid.ai/seorigami/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 13:46:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can You Now Trust Google To Crawl Ajax Sites?]]></title>
+            <description><![CDATA[<article><h1>Can You Now Trust Google To Crawl Ajax Sites?</h1><p>On October 14, Google announced it no longer recommends the Ajax crawling scheme they published in 2009. Columnist Mark Munroe dives into the question of whether this means you can now count on Google to successfully crawl and index an Ajax site.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/01/javascript-js-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/can-now-trust-google-crawl-ajax-sites-235267</link>
+            <guid isPermaLink="false">133d3477-53a6-469b-9704-d0c84b51c6da</guid>
+            <pubDate>Mon, 16 Nov 2015 13:45:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Use, compare & test responsive frameworks. Find code snippets & examples.</p>]]></description>
+            <link>https://thegrid.ai/seorigami/use-compare-and-test-responsive-frameworks-find-code-snippet/index.html</link>
+            <guid isPermaLink="false">1b87d6ac-a808-47a9-bdd0-a141a93bac87</guid>
+            <pubDate>Fri, 06 Nov 2015 19:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hemingway Editor]]></title>
+            <description><![CDATA[<article><h1>Hemingway Editor</h1><p>Hemingway highlights long, complex sentences and common errors; if you see a yellow highlight, shorten the sentence or split it. If you see a red highlight, your sentence is so dense and complicated that your readers will get lost trying to follow its meandering, splitting logic - try editing this sentence to remove the red.</p></article>]]></description>
+            <link>http://www.hemingwayapp.com/</link>
+            <guid isPermaLink="false">efc8db4a-154b-4330-b75a-394380d690fb</guid>
+            <pubDate>Fri, 06 Nov 2015 19:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Practical Guide]]></title>
+            <description><![CDATA[<article><h1>A Practical Guide</h1><p>Preparing an SVG for use on the web is a simple process and no more complicated that exporting a JPEG or PNG. Work as you typically would in your preferred vector graphics editor (Illustrator, Sketch, Inkscape [free], etc [or even Photoshop if you use shape layers]) with the graphic at the size that you expect to use it.</p><img src="https://svgontheweb.com/assets/img/2point.png"></article>]]></description>
+            <link>https://svgontheweb.com/#implementation</link>
+            <guid isPermaLink="false">96355b86-a678-4147-8454-bb4664499701</guid>
+            <pubDate>Fri, 06 Nov 2015 19:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cinco 2.5]]></title>
+            <description><![CDATA[<article><h1>Cinco 2.5</h1><img src="http://i3.ytimg.com/vi/MHWBEK8w_YY/hqdefault.jpg"></article>]]></description>
+            <link>http://celeryman.alexmeub.com/</link>
+            <guid isPermaLink="false">d63aef79-76b6-44ce-a718-e2bbdc3cab26</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playable Tetris Pumpkin By Nathan From HahaBird]]></title>
+            <description><![CDATA[<article><h1>Playable Tetris Pumpkin By Nathan From HahaBird</h1><p>A blog about Advertising, Goodvertising, Architecture, Art, Graphics, Design, Movies, Music, Photography and Fashion</p><img src="http://a.theinspiration.com/wp-content/uploads/pump-1.jpg"></article>]]></description>
+            <link>http://www.theinspiration.com/2015/10/playable-tetris-pumpkin-nathan-hahabird/</link>
+            <guid isPermaLink="false">74a7d019-11d6-41a3-93c6-2726f4dba331</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAQ: All About The New Google RankBrain Algorithm]]></title>
+            <description><![CDATA[<article><h1>FAQ: All About The New Google RankBrain Algorithm</h1><p>Yesterday, news emerged that Google was using a machine-learning artificial intelligence system called "RankBrain" to help sort through its search results. Wondering how that works and fits in with Google's overall ranking system? Here's what we know about RankBrain. The information covered below comes from three sources.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-fade-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440</link>
+            <guid isPermaLink="false">62726d6f-052e-458c-a022-40c52e5e187e</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualize Sketch 3.4 New Features]]></title>
+            <description><![CDATA[<article><h1>Visualize Sketch 3.4 New Features</h1><p>A free significant update of Sketch is released yesterday in version 3.4 and have tons of new features and bug fixes that will help improve your design workflow. I'm using GIF to show the features which similar to what Clark Wimberly has done here.</p><img src="http://kwangyik.com/content/images/2015/10/sketch-3-4-mask-indicator.gif"></article>]]></description>
+            <link>http://kwangyik.com/2015/10/28/visualize-sketch-3-4-new-features/</link>
+            <guid isPermaLink="false">2e452004-057e-4d22-a96a-0d30885f1d68</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Link Building Outreach in a Skeptical World - Whiteboard Friday]]></title>
+            <description><![CDATA[<article><h1>Link Building Outreach in a Skeptical World - Whiteboard Friday</h1><p>Outreach. It's the most important part of the link building process-and also the most grueling. Good personalized outreach is impossible to scale, and it's easy to fall into a rut. What can you do to maximize your success rate and to stand out from the crowd?</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/56293ea16e8ba4.33890264.jpg"></article>]]></description>
+            <link>https://moz.com/blog/link-building-outreach-in-a-skeptical-world-whiteboard-friday</link>
+            <guid isPermaLink="false">1ea6d6a7-008a-4fea-9c15-57535b6962e4</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TypeSource]]></title>
+            <description><![CDATA[<article><h1>TypeSource</h1><p>TypeSource | Google Web Font inspiration in HTML & CSS</p><img src="http://tobiasahlin.com/images/typesource/og.jpg"></article>]]></description>
+            <link>http://tobiasahlin.com/typesource/</link>
+            <guid isPermaLink="false">3cfca5d2-ef82-4c90-b114-9a066fd3340f</guid>
+            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
