@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 13:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 21:15:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to customise animated GIFs in Photoshop]]></title>
+            <description><![CDATA[<article><h1>How to customise animated GIFs in Photoshop</h1><p>Animated GIFs are a great way to make your designs more eye-catching. With Photoshop, you can customize any animated GIF to fit the style of your project.</p><img src="http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2015/11/ps-adjustment-menu.jpg"></article>]]></description>
+            <link>http://www.creativebloq.com/photoshop/how-to-customise-animated-gifs-111517958</link>
+            <guid isPermaLink="false">3d3ff42c-bee9-447d-a0a2-f0a526066f2c</guid>
+            <pubDate>Wed, 25 Nov 2015 21:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Classic Albums drawn by Six-Years Old Artist]]></title>
             <description><![CDATA[<article><h1>Classic Albums drawn by Six-Years Old Artist</h1><p>À l'âge de six ans, Nicolina Lorenza Vachetti, cousine du célèbre graphiste argentin Tano Veron semble marcher sur les pas de son aîné. C'est</p><img src="http://www.fubiz.net/wp-content/uploads/2015/11/tanoveron-639x0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Visualize Sketch 3.4 New Features</h1><p>A free significant update of Sketch is released yesterday in version 3.4 and have tons of new features and bug fixes that will help improve your design workflow. I'm using GIF to show the features which similar to what Clark Wimberly has done here.</p><img src="http://kwangyik.com/content/images/2015/10/sketch-3-4-mask-indicator.gif"></article>]]></description>
             <link>http://kwangyik.com/2015/10/28/visualize-sketch-3-4-new-features/</link>
             <guid isPermaLink="false">2e452004-057e-4d22-a96a-0d30885f1d68</guid>
-            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Link Building Outreach in a Skeptical World - Whiteboard Friday]]></title>
-            <description><![CDATA[<article><h1>Link Building Outreach in a Skeptical World - Whiteboard Friday</h1><p>Outreach. It's the most important part of the link building process-and also the most grueling. Good personalized outreach is impossible to scale, and it's easy to fall into a rut. What can you do to maximize your success rate and to stand out from the crowd?</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/56293ea16e8ba4.33890264.jpg"></article>]]></description>
-            <link>https://moz.com/blog/link-building-outreach-in-a-skeptical-world-whiteboard-friday</link>
-            <guid isPermaLink="false">1ea6d6a7-008a-4fea-9c15-57535b6962e4</guid>
             <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
     </channel>
