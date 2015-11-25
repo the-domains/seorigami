@@ -1,20 +1,4 @@
-name: SEOrigami
-favicon: null
-layout_spectrum: 0.7726
-typography_spectrum: 0.39611
-title: 'SEOrigami: The blog about web development, design, and the world.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#708837'
@@ -24,6 +8,11 @@ color:
     - '#95adca'
   brandStrength: 0.8125
   lightness: 0.5625
-  saturation: 0.25
   rhythmicContrast: 1
+  saturation: 0.25
+cta: {}
+layout_spectrum: 0.523848
+name: SEOrigami
+opengraph: {}
 purpose: []
+typography_spectrum: 0.39611
