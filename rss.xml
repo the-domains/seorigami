@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 21:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 21:15:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Prep For The Pending Penguin Update & Ensure You're Penalty Free In 2016]]></title>
+            <description><![CDATA[<article><h1>How To Prep For The Pending Penguin Update & Ensure You're Penalty Free In 2016</h1><p>Gary Illyes, Webmaster Trends Analyst at Google, confirmed on Twitter that we'll be graced with the next Penguin update before the end of 2015. This means that all of those webmasters who were hit by the last Penguin update (in December 2014, mind you) now have the chance of recovery, since historically, this update hasn't been refreshed automatically.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/02/google-3penguins1-ss-1920.jpg"></article>]]></description>
+            <link>http://searchengineland.com/preparing-penguin-make-sure-youre-penalty-free-2016-235834</link>
+            <guid isPermaLink="false">312ed457-67f6-499a-a1ee-11875f441c49</guid>
+            <pubDate>Wed, 25 Nov 2015 21:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to customise animated GIFs in Photoshop]]></title>
             <description><![CDATA[<article><h1>How to customise animated GIFs in Photoshop</h1><p>Animated GIFs are a great way to make your designs more eye-catching. With Photoshop, you can customize any animated GIF to fit the style of your project.</p><img src="http://media.creativebloq.futurecdn.net/sites/creativebloq.com/files/images/2015/11/ps-adjustment-menu.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>FAQ: All About The New Google RankBrain Algorithm</h1><p>Yesterday, news emerged that Google was using a machine-learning artificial intelligence system called "RankBrain" to help sort through its search results. Wondering how that works and fits in with Google's overall ranking system? Here's what we know about RankBrain. The information covered below comes from three sources.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-fade-ss-1920.jpg"></article>]]></description>
             <link>http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440</link>
             <guid isPermaLink="false">62726d6f-052e-458c-a022-40c52e5e187e</guid>
-            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visualize Sketch 3.4 New Features]]></title>
-            <description><![CDATA[<article><h1>Visualize Sketch 3.4 New Features</h1><p>A free significant update of Sketch is released yesterday in version 3.4 and have tons of new features and bug fixes that will help improve your design workflow. I'm using GIF to show the features which similar to what Clark Wimberly has done here.</p><img src="http://kwangyik.com/content/images/2015/10/sketch-3-4-mask-indicator.gif"></article>]]></description>
-            <link>http://kwangyik.com/2015/10/28/visualize-sketch-3-4-new-features/</link>
-            <guid isPermaLink="false">2e452004-057e-4d22-a96a-0d30885f1d68</guid>
             <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
     </channel>
