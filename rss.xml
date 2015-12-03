@@ -4,8 +4,15 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 15:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 15:01:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Keyword Planner's Dirty Secrets Revealed]]></title>
+            <description><![CDATA[<article><h1>Google Keyword Planner's Dirty Secrets Revealed</h1><p>Sometimes our best data sources aren't exactly up to par. While nearly every search marketer will rely on Google Keyword Planner data at one point or another, especially while doing keyword research, the reality is that the data is often untrustworthy and should be viewed with great skepticism.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/5637bc9d047e41.04373529.jpg"></article>]]></description>
+            <link>https://moz.com/blog/google-keyword-planner-dirty-secrets</link>
+            <guid isPermaLink="false">51c40656-12fd-41f2-8637-752eb0fb1f1c</guid>
+            <pubDate>Thu, 03 Dec 2015 15:00:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Persona Research in Under 5 Minutes]]></title>
             <description><![CDATA[<article><h1>Persona Research in Under 5 Minutes</h1><p>Well-researched personas can be a useful tool for marketers, but to do it correctly takes time. But what if you don't have extra time? Using a mix of Followerwonk, Twitter, and the AIchemy language API, it's possible to do top-level persona research very quickly.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/565632406da258.56859154.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/seorigami/use-compare-and-test-responsive-frameworks-find-code-snippet/index.html</link>
             <guid isPermaLink="false">1b87d6ac-a808-47a9-bdd0-a141a93bac87</guid>
             <pubDate>Fri, 06 Nov 2015 19:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hemingway Editor]]></title>
-            <description><![CDATA[<article><h1>Hemingway Editor</h1><p>Hemingway highlights long, complex sentences and common errors; if you see a yellow highlight, shorten the sentence or split it. If you see a red highlight, your sentence is so dense and complicated that your readers will get lost trying to follow its meandering, splitting logic - try editing this sentence to remove the red.</p></article>]]></description>
-            <link>http://www.hemingwayapp.com/</link>
-            <guid isPermaLink="false">efc8db4a-154b-4330-b75a-394380d690fb</guid>
-            <pubDate>Fri, 06 Nov 2015 19:52:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
