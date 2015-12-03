@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ran some tests regarding HTTP/2 being automatically enabled on Cloudflare CDN. Results were concerning.
-datePublished: '2015-12-03T16:10:57.470Z'
-dateModified: '2015-12-03T16:10:45.872Z'
+datePublished: '2015-12-03T16:14:18.487Z'
+dateModified: '2015-12-03T16:14:05.337Z'
 title: Cloudflare HTTP/2 Benchmark Testing
 author: []
+sourcePath: _posts/2015-12-03-cloudflare-http2-benchmark-testing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-cloudflare-http2-benchmark-testing.md
-published: true
 url: cloudflare-http2-benchmark-testing/index.html
 _type: Article
 
 ---
-[@wesbos][0] tweeted that Cloudflare sent him an email this morning on automatic upgrades to HTTP/2 with SPDY. After some checking around I learned a bit more an ran some tests with my coworker [@HTMelvis][1] to see what we came up with.
+Wes Bos over at [@wesbos][0] tweeted that Cloudflare sent him an email this morning on automatic upgrades to HTTP/2 with SPDY. After some checking around I learned a bit more an ran some tests with my coworker [@HTMelvis][1] to see what we came up with.
 Making a rough draft to quickly post up here on my grid site, not sure how much HTML I can use here, so please forgive the lack of tables. I'll post a nice version on my main site when I can.
 
 > Cloudflare just flipped on HTTP/2 for my site! 
