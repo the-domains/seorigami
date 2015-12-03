@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ran some tests regarding HTTP/2 being automatically enabled on Cloudflare CDN. Results were concerning.
-datePublished: '2015-12-03T16:14:18.487Z'
-dateModified: '2015-12-03T16:14:05.337Z'
+datePublished: '2015-12-03T16:18:09.077Z'
+dateModified: '2015-12-03T16:18:04.970Z'
 title: Cloudflare HTTP/2 Benchmark Testing
 author: []
 sourcePath: _posts/2015-12-03-cloudflare-http2-benchmark-testing.md
@@ -74,6 +74,12 @@ Chrome DevTools:
 * Dom load: 742ms
 * Fully loaded: 890ms
 
+So again, chrome dev tools showing drastically faster speeds. Yikes. So our hypothesis at this point is that the web based tools are not leveraging HTTP/2\. This worries me since Googlebot hasn't fully adopted HTTP/2 yet, but they plan to by early next year. 
+
+So does this mean that Google will get the same one second slower result typical of the web based tests we ran? If this is the case this article on [Search Engine Land][9] has some 'splaining to do regarding their "There is no downside to upgrading, since if a user cannot load the site over HTTP/2, they will load it just like they always have" statement. 
+
+I don't have time to check this out in more depth right now but let me know what you find on Twitter [@SEO\_rigami][10]. Follow me for updates on the this test, SEO news, Web Development & Design Trends, and occasional political musings. 
+
 [0]: https://twitter.com/wesbos
 [1]: https://twitter.com/HTMelvis
 [2]: https://t.co/pD8azXHhUN
@@ -83,3 +89,5 @@ Chrome DevTools:
 [6]: http://www.webpagetest.org/
 [7]: https://developers.google.com/speed/pagespeed/insights/
 [8]: https://tools.keycdn.com/http2-test
+[9]: http://searchengineland.com/everyone-moving-http2-236716
+[10]: https://twitter.com/SEO_rigami
