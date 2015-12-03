@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></title>
-        <description><![CDATA[SEOrigami: The blog about web development, design, and the world.]]></description>
+        <title><![CDATA[SEOrigami]]></title>
+        <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 21:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 15:01:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Persona Research in Under 5 Minutes]]></title>
+            <description><![CDATA[<article><h1>Persona Research in Under 5 Minutes</h1><p>Well-researched personas can be a useful tool for marketers, but to do it correctly takes time. But what if you don't have extra time? Using a mix of Followerwonk, Twitter, and the AIchemy language API, it's possible to do top-level persona research very quickly.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/565632406da258.56859154.png"></article>]]></description>
+            <link>https://moz.com/blog/persona-research-under-5-minutes</link>
+            <guid isPermaLink="false">b2b56738-de80-42ed-92bc-29b229c2c9de</guid>
+            <pubDate>Thu, 03 Dec 2015 15:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 Attributes that Influence a Link's Value - Whiteboard Friday]]></title>
+            <description><![CDATA[<article><h1>20 Attributes that Influence a Link's Value - Whiteboard Friday</h1><p>When it comes to the link building process, there's a lot to keep track of - and that process today is pretty different from what it was a few short years ago. In this week's Whiteboard Friday, Rand scores 20 different attributes that can influence a link's value based on whether or not they still matter in 2015/2016.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/564e6c350775d6.05822262.jpg"></article>]]></description>
+            <link>https://moz.com/blog/20-attributes-influence-link-value-whiteboard-friday</link>
+            <guid isPermaLink="false">dcd1ad50-7409-451e-9186-7c892e8dfad4</guid>
+            <pubDate>Wed, 25 Nov 2015 21:14:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creative, Pure Code 404 Pages]]></title>
+            <description><![CDATA[<article><h1>Creative, Pure Code 404 Pages</h1><p>Muzli is a new-tab chrome extension, it will become your home page, so you don'€™t miss anything. Get Muzli for Chrome Muzli is a new-tab chrome extension, it will become your home page, so you don'€™t miss anything. Get Muzli for Chrome</p><img src="https://muzli-blogmediastorage.s3.amazonaws.com/muzli/wp-content/uploads/2015/11/404.jpg"></article>]]></description>
+            <link>http://muz.li/blog/creative-pure-code-404-pages/</link>
+            <guid isPermaLink="false">dedb60cb-a6a9-478d-865a-b3e52715feb6</guid>
+            <pubDate>Wed, 25 Nov 2015 21:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Wars Battlefront Key Art by Brendan McCaffrey]]></title>
+            <description><![CDATA[<article><h1>Star Wars Battlefront Key Art by Brendan McCaffrey</h1><p>Abduzeedo is a blog about design. There are all sorts of articles for those who want to look for inspiration. Also you will find very useful tutorials for the most used applications out there, with a special selection of Photoshop Tutorials and Illustrator Tutorials.</p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30f30b31416943.564f3da762ba5.jpg"></article>]]></description>
+            <link>http://abduzeedo.com/star-wars-battlefront-key-art-brendan-mccaffrey</link>
+            <guid isPermaLink="false">4dd78613-8325-4f39-9ba3-dd6ded711925</guid>
+            <pubDate>Wed, 25 Nov 2015 21:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Prep For The Pending Penguin Update & Ensure You're Penalty Free In 2016]]></title>
             <description><![CDATA[<article><h1>How To Prep For The Pending Penguin Update & Ensure You're Penalty Free In 2016</h1><p>Gary Illyes, Webmaster Trends Analyst at Google, confirmed on Twitter that we'll be graced with the next Penguin update before the end of 2015. This means that all of those webmasters who were hit by the last Penguin update (in December 2014, mind you) now have the chance of recovery, since historically, this update hasn't been refreshed automatically.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/02/google-3penguins1-ss-1920.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.hemingwayapp.com/</link>
             <guid isPermaLink="false">efc8db4a-154b-4330-b75a-394380d690fb</guid>
             <pubDate>Fri, 06 Nov 2015 19:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Practical Guide]]></title>
-            <description><![CDATA[<article><h1>A Practical Guide</h1><p>Preparing an SVG for use on the web is a simple process and no more complicated that exporting a JPEG or PNG. Work as you typically would in your preferred vector graphics editor (Illustrator, Sketch, Inkscape [free], etc [or even Photoshop if you use shape layers]) with the graphic at the size that you expect to use it.</p><img src="https://svgontheweb.com/assets/img/2point.png"></article>]]></description>
-            <link>https://svgontheweb.com/#implementation</link>
-            <guid isPermaLink="false">96355b86-a678-4147-8454-bb4664499701</guid>
-            <pubDate>Fri, 06 Nov 2015 19:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinco 2.5]]></title>
-            <description><![CDATA[<article><h1>Cinco 2.5</h1><img src="http://i3.ytimg.com/vi/MHWBEK8w_YY/hqdefault.jpg"></article>]]></description>
-            <link>http://celeryman.alexmeub.com/</link>
-            <guid isPermaLink="false">d63aef79-76b6-44ce-a718-e2bbdc3cab26</guid>
-            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playable Tetris Pumpkin By Nathan From HahaBird]]></title>
-            <description><![CDATA[<article><h1>Playable Tetris Pumpkin By Nathan From HahaBird</h1><p>A blog about Advertising, Goodvertising, Architecture, Art, Graphics, Design, Movies, Music, Photography and Fashion</p><img src="http://a.theinspiration.com/wp-content/uploads/pump-1.jpg"></article>]]></description>
-            <link>http://www.theinspiration.com/2015/10/playable-tetris-pumpkin-nathan-hahabird/</link>
-            <guid isPermaLink="false">74a7d019-11d6-41a3-93c6-2726f4dba331</guid>
-            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FAQ: All About The New Google RankBrain Algorithm]]></title>
-            <description><![CDATA[<article><h1>FAQ: All About The New Google RankBrain Algorithm</h1><p>Yesterday, news emerged that Google was using a machine-learning artificial intelligence system called "RankBrain" to help sort through its search results. Wondering how that works and fits in with Google's overall ranking system? Here's what we know about RankBrain. The information covered below comes from three sources.</p><img src="http://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-fade-ss-1920.jpg"></article>]]></description>
-            <link>http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440</link>
-            <guid isPermaLink="false">62726d6f-052e-458c-a022-40c52e5e187e</guid>
-            <pubDate>Tue, 03 Nov 2015 13:31:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
