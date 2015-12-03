@@ -4,18 +4,18 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 16:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 16:14:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cloudflare HTTP/2 Benchmark Testing]]></title>
-            <description><![CDATA[<article><h1>Cloudflare HTTP/2 Benchmark Testing</h1><p>@wesbos tweeted that Cloudflare sent him an email this morning on automatic upgrades to HTTP/2 with SPDY. After some checking around I learned a bit more an ran some tests with my coworker @HTMelvis to see what we came up with.
+            <description><![CDATA[<article><h1>Cloudflare HTTP/2 Benchmark Testing</h1><p>  Wes Bos over at @wesbos tweeted that Cloudflare sent him an email this morning on automatic upgrades to HTTP/2 with SPDY. After some checking around I learned a bit more an ran some tests with my coworker @HTMelvis to see what we came up with.
 
 Making a rough draft to quickly post up here on my grid site, not sure how much HTML I can use here, so please forgive the lack of tables. I'll post a nice version on my main site when I can.
 
 </p></article>]]></description>
             <link>https://thegrid.ai/seorigami/cloudflare-http2-benchmark-testing/index.html</link>
             <guid isPermaLink="false">d72ec259-08a0-47cf-9284-6a81aaa1be91</guid>
-            <pubDate>Thu, 03 Dec 2015 16:10:57 GMT</pubDate>
+            <pubDate>Thu, 03 Dec 2015 16:14:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google Keyword Planner's Dirty Secrets Revealed]]></title>
