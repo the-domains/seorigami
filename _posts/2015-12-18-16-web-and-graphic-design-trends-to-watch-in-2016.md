@@ -12,10 +12,10 @@ related:
     thumbnail_url: 'http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/shutterstock_272654909.jpg'
     thumbnail_width: 1700
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - design
   - infographic
@@ -43,13 +43,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc'
 title: '16 Web & Graphic Design Trends To Watch In 2016'
-datePublished: '2015-12-18T17:00:09.865Z'
-dateModified: '2015-12-18T16:55:17.777Z'
+datePublished: '2015-12-18T17:07:43.193Z'
+dateModified: '2015-12-18T17:07:36.542Z'
 sourcePath: _posts/2015-12-18-16-web-and-graphic-design-trends-to-watch-in-2016.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
