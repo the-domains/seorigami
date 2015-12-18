@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 17:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 17:00:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cloudflare HTTP/2 Benchmark Testing]]></title>
@@ -16,6 +16,13 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>https://thegrid.ai/seorigami/cloudflare-http2-benchmark-testing/index.html</link>
             <guid isPermaLink="false">d72ec259-08a0-47cf-9284-6a81aaa1be91</guid>
             <pubDate>Thu, 03 Dec 2015 16:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flat Design 2.0]]></title>
+            <description><![CDATA[<article><h1>Flat Design 2.0</h1><p>I'm available for hire! With more artists adding ornamentation to their flat design work, the style has gradually evolved to something I like to call flat design 2.0 or just Flat 2.0 Flat 2.0 is an evolution, not a revolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f074e91b718dea347dc4f5dc34edbbc542630d2f.png"></article>]]></description>
+            <link>http://articles.dappergentlemen.com/2014/12/03/flat-design-2/</link>
+            <guid isPermaLink="false">d00cd7d1-bb82-4a7d-9460-2078f925961f</guid>
+            <pubDate>Fri, 18 Dec 2015 17:00:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -71,13 +78,6 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <description><![CDATA[<article><h1>How To Prep For The Pending Penguin Update & Ensure You're Penalty Free In 2016</h1><p>Gary Illyes, Webmaster Trends Analyst at Google, confirmed on Twitter that we'll be graced with the next Penguin update before the end of 2015. This means that all of those webmasters who were hit by the last Penguin update (in December 2014, mind you) now have the chance of recovery, since historically, this update hasn't been refreshed automatically.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e51ab56f548f9296a6ed9cea76867fcd7ce96a.jpg"></article>]]></description>
             <link>http://searchengineland.com/preparing-penguin-make-sure-youre-penalty-free-2016-235834</link>
             <guid isPermaLink="false">312ed457-67f6-499a-a1ee-11875f441c49</guid>
-            <pubDate>Wed, 25 Nov 2015 21:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to customise animated GIFs in Photoshop]]></title>
-            <description><![CDATA[<article><h1>How to customise animated GIFs in Photoshop</h1><p>Animated GIFs are a great way to make your designs more eye-catching. With Photoshop, you can customize any animated GIF to fit the style of your project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6296c8810af56fc15b52570f6875ca820df76ae2.jpg"></article>]]></description>
-            <link>http://www.creativebloq.com/photoshop/how-to-customise-animated-gifs-111517958</link>
-            <guid isPermaLink="false">3d3ff42c-bee9-447d-a0a2-f0a526066f2c</guid>
             <pubDate>Wed, 25 Nov 2015 21:14:04 GMT</pubDate>
         </item>
     </channel>
