@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 17:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 17:29:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -23,6 +23,13 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>https://thegrid.ai/seorigami/cloudflare-http2-benchmark-testing/index.html</link>
             <guid isPermaLink="false">d72ec259-08a0-47cf-9284-6a81aaa1be91</guid>
             <pubDate>Thu, 03 Dec 2015 16:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Carved Graphite Train on Tracks Emerges from Inside a Carpenter's Pencil]]></title>
+            <description><![CDATA[<article><h1>A Carved Graphite Train on Tracks Emerges from Inside a Carpenter's Pencil</h1><p>All photos courtesy Cindy Chinn We've seen a number of artists working with pencil leads over the last few years, where the narrow dimensions of graphite are carved into miniscule objects. This recent piece by Nebraska-based artist Cindy Chinn is particularly ingenious, an entire carpenter's pencil is turned into a tiny train, trestle, and bridge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b205e4583e991257e94b043d45c918d1bf3fbb2.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/2015/12/carved-train-cindy-chinn/</link>
+            <guid isPermaLink="false">38fd43c8-bee1-4e6a-b6fa-ea16f0045b9f</guid>
+            <pubDate>Mon, 28 Dec 2015 17:28:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyperrealistic Oil Paintings of Haphazardly Wrapped Packages and Gifts by Yrjö Edelmann]]></title>
@@ -71,13 +78,6 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <description><![CDATA[<article><h1>Google Keyword Planner's Dirty Secrets Revealed</h1><p>Sometimes our best data sources aren't exactly up to par. While nearly every search marketer will rely on Google Keyword Planner data at one point or another, especially while doing keyword research, the reality is that the data is often untrustworthy and should be viewed with great skepticism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/850297c3d6aef87cb7dab8b2065f215cf34742ec.jpg"></article>]]></description>
             <link>https://moz.com/blog/google-keyword-planner-dirty-secrets</link>
             <guid isPermaLink="false">51c40656-12fd-41f2-8637-752eb0fb1f1c</guid>
-            <pubDate>Thu, 03 Dec 2015 15:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Persona Research in Under 5 Minutes]]></title>
-            <description><![CDATA[<article><h1>Persona Research in Under 5 Minutes</h1><p>Well-researched personas can be a useful tool for marketers, but to do it correctly takes time. But what if you don't have extra time? Using a mix of Followerwonk, Twitter, and the AIchemy language API, it's possible to do top-level persona research very quickly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ba99cd1460f20b5144669744c8ae5315d658c25.png"></article>]]></description>
-            <link>https://moz.com/blog/persona-research-under-5-minutes</link>
-            <guid isPermaLink="false">b2b56738-de80-42ed-92bc-29b229c2c9de</guid>
             <pubDate>Thu, 03 Dec 2015 15:00:29 GMT</pubDate>
         </item>
     </channel>
