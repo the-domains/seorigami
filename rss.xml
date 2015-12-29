@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 20:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 20:10:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -23,6 +23,20 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>https://thegrid.ai/seorigami/cloudflare-http2-benchmark-testing/index.html</link>
             <guid isPermaLink="false">d72ec259-08a0-47cf-9284-6a81aaa1be91</guid>
             <pubDate>Thu, 03 Dec 2015 16:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Designers Learn Code? - a Martial Artist's Approach]]></title>
+            <description><![CDATA[<article><h1>Should Designers Learn Code? - a Martial Artist's Approach</h1><p>I've been doing Martial Arts since I was 8. I know, I certainly don't look like that. My friends call me "a bullie's nightmare". I've done Karate, Krav Maga, 3 years of Tae Kwon Do, then 13 years of CMA which is a combo of the full-contact martial arts: Karate, Muay Thai, Krav Maga for self defence, and some BJJ.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72a24c7ca5632d4aa299f8baf84940ee284e3d48.jpg"></article>]]></description>
+            <link>http://hackingui.com/design/a-martial-artists-approach-to-the-whole-should-designers-learn-code-discussion/</link>
+            <guid isPermaLink="false">0908df9c-f944-40a3-8d40-5ce9cea593a3</guid>
+            <pubDate>Tue, 29 Dec 2015 20:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Planning For SEO Success In 2016]]></title>
+            <description><![CDATA[<article><h1>Planning For SEO Success In 2016</h1><p>A 2015 study by Smart Insights showed that 50 percent of businesses doing digital marketing had no form of digital marketing plan or strategy. They were doing digital marketing, yet there were no clearly defined objectives or goals. Does this seem a little crazy to you?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bccc7ce90e473ff5fec48aaa93b27d2c0a09746d.png"></article>]]></description>
+            <link>http://searchengineland.com/planning-seo-success-2016-238896</link>
+            <guid isPermaLink="false">25a7cda6-458c-445e-bd65-80ca923e139d</guid>
+            <pubDate>Tue, 29 Dec 2015 20:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Essential Search Trends That Will Impact Online Revenue In 2016]]></title>
@@ -65,20 +79,6 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>http://www.engadget.com/2015/12/20/first-website-is-25-years-old/</link>
             <guid isPermaLink="false">fa89ed01-4572-4464-9afa-6139551ef6f4</guid>
             <pubDate>Mon, 28 Dec 2015 17:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microcars]]></title>
-            <description><![CDATA[<article><h1>Microcars</h1><p>Microcars are both cheap and fuel-efficient. They were developed in the impoverished Europe of the postwar period and attracted the interest of people who couldn't afford "real" automobiles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91a17001d9360a88e20e32422c76d969c0474fa5.jpg"></article>]]></description>
-            <link>http://enso.readymag.com/microcars/</link>
-            <guid isPermaLink="false">2968de34-0e2d-4a84-91f0-7afe57f6c764</guid>
-            <pubDate>Fri, 18 Dec 2015 17:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Presentation Slideshow]]></title>
-            <description><![CDATA[<article><h1>Presentation Slideshow</h1><p>A simple presentation template in CSS and jQuery. Although presentations are usually created using native apps, we decided to challenge ourselves and design a presentation template for the browser. It wasn't an easy task, for the way you interact with a presentation slideshow is different compared to how you scroll through a website: each unit/slide must be isolated, so that its content can be assimilated before switching to the next one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af258580d32c611456df16f7f8b3e00ea2d1854a.png"></article>]]></description>
-            <link>https://codyhouse.co/gem/presentation-slideshow/</link>
-            <guid isPermaLink="false">149a396f-213c-4452-94b4-b94542937fe4</guid>
-            <pubDate>Fri, 18 Dec 2015 17:00:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
