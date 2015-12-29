@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Ran some tests regarding HTTP/2 being automatically enabled on Cloudflare CDN. Results were concerning.
-datePublished: '2015-12-03T16:18:16.434Z'
-dateModified: '2015-12-03T16:18:12.688Z'
+datePublished: '2015-12-29T20:27:35.151Z'
+dateModified: '2015-12-29T20:27:23.812Z'
 title: Cloudflare HTTP/2 Benchmark Testing
 author: []
 sourcePath: _posts/2015-12-03-cloudflare-http2-benchmark-testing.md
