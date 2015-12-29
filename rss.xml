@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 20:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 20:10:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -23,6 +23,20 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>https://thegrid.ai/seorigami/cloudflare-http2-benchmark-testing/index.html</link>
             <guid isPermaLink="false">d72ec259-08a0-47cf-9284-6a81aaa1be91</guid>
             <pubDate>Thu, 03 Dec 2015 16:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learning Front-End: A Manifesto]]></title>
+            <description><![CDATA[<article><h1>Learning Front-End: A Manifesto</h1><p>I'm often asked "How do I improve? There's so much to learn, but I haven't a clue which direction to go". This post offers advice and a targeted approach toward becoming a well formed Frontend Developer. Consider this your framework for future topics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e6531bd57bbfe1ada041ff0ee72a14b344f5cab.png"></article>]]></description>
+            <link>https://slack-files.com/T039R6A9M-F0A21J458-5a0ee45947</link>
+            <guid isPermaLink="false">3deb9d8e-d9bc-4721-a84a-bc9651f1d629</guid>
+            <pubDate>Tue, 29 Dec 2015 20:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Designers Learn Code? - a Martial Artist's Approach]]></title>
+            <description><![CDATA[<article><h1>Should Designers Learn Code? - a Martial Artist's Approach</h1><p>I've been doing Martial Arts since I was 8. I know, I certainly don't look like that. My friends call me "a bullie's nightmare". I've done Karate, Krav Maga, 3 years of Tae Kwon Do, then 13 years of CMA which is a combo of the full-contact martial arts: Karate, Muay Thai, Krav Maga for self defence, and some BJJ.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72a24c7ca5632d4aa299f8baf84940ee284e3d48.jpg"></article>]]></description>
+            <link>http://hackingui.com/design/a-martial-artists-approach-to-the-whole-should-designers-learn-code-discussion/</link>
+            <guid isPermaLink="false">0908df9c-f944-40a3-8d40-5ce9cea593a3</guid>
+            <pubDate>Tue, 29 Dec 2015 20:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Planning For SEO Success In 2016]]></title>
@@ -65,20 +79,6 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>http://www.thisiscolossal.com/2015/12/haphazard-presents-yrjo-edelmann/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+colossal+%28Colossal%29</link>
             <guid isPermaLink="false">a16a0486-3c59-45b6-b2ca-d93c495bf3e5</guid>
             <pubDate>Mon, 28 Dec 2015 17:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The first website went online 25 years ago today]]></title>
-            <description><![CDATA[<article><h1>The first website went online 25 years ago today</h1><p>Where are the creators in 2015? Berners-Lee is still as tightly involved with web as he ever was, directing the World Wide Web Consortium he helped create. In fact, he's pushing hard to protect the open web against both government censorship and telecoms' attempts to crush net neutrality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e79155eff281bb90b7d6273c85f83a163181f601.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2015/12/20/first-website-is-25-years-old/</link>
-            <guid isPermaLink="false">fa89ed01-4572-4464-9afa-6139551ef6f4</guid>
-            <pubDate>Mon, 28 Dec 2015 17:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microcars]]></title>
-            <description><![CDATA[<article><h1>Microcars</h1><p>Microcars are both cheap and fuel-efficient. They were developed in the impoverished Europe of the postwar period and attracted the interest of people who couldn't afford "real" automobiles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91a17001d9360a88e20e32422c76d969c0474fa5.jpg"></article>]]></description>
-            <link>http://enso.readymag.com/microcars/</link>
-            <guid isPermaLink="false">2968de34-0e2d-4a84-91f0-7afe57f6c764</guid>
-            <pubDate>Fri, 18 Dec 2015 17:00:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
