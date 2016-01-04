@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Ran some tests regarding HTTP/2 being automatically enabled on Cloudflare CDN. Results were concerning.
-datePublished: '2015-12-29T20:46:24.045Z'
-dateModified: '2015-12-29T20:46:17.838Z'
+datePublished: '2016-01-04T17:29:11.010Z'
+dateModified: '2016-01-04T17:29:04.194Z'
 title: Cloudflare HTTP/2 Benchmark Testing
 author: []
 sourcePath: _posts/2015-12-03-cloudflare-http2-benchmark-testing.md
@@ -28,7 +28,7 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
 Cloudflare just flipped on HTTP/2 for my site! 
 [https://t.co/pD8azXHhUN][2]
 
---- Wes Bos (@wesbos) null
+--- Wes Bos (@wesbos) 
 
 To begin we ran tests without changing anything under our Cloudflare account. It is worth noting [Cloudflare states][3] that "If you are a customer on the Free or Pro plan, there is no need to do anything at all. Both SPDY and HTTP/2 are already enabled for you." Even so, under the network tab in the dashboard the HTTP/2 + SPDY option was still set to SPDY only.
 
