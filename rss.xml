@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 20:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 17:27:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -23,6 +23,13 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>https://thegrid.ai/seorigami/cloudflare-http2-benchmark-testing/index.html</link>
             <guid isPermaLink="false">d72ec259-08a0-47cf-9284-6a81aaa1be91</guid>
             <pubDate>Tue, 29 Dec 2015 20:46:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Meditation Make Designers Faster, Better, Smarter-and Happier?]]></title>
+            <description><![CDATA[<article><h1>Can Meditation Make Designers Faster, Better, Smarter-and Happier?</h1><p>When you first hear David Grey speak about "graphic design as a contemplative art," it's easy to mistake his meditation-based design practice as a fringe movement with little relevance in the fast-paced world of design. An educator and founder of the graphic design department at the Santa Fe Univers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c323f2356bb3d488939b7b638302e0e8a81600ac.jpg"></article>]]></description>
+            <link>https://eyeondesign.aiga.org/can-meditation-make-you-a-better-graphic-designer/</link>
+            <guid isPermaLink="false">78892ac5-757b-4110-b523-aeb8ea9e072a</guid>
+            <pubDate>Mon, 04 Jan 2016 17:27:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Learning Front-End: A Manifesto]]></title>
@@ -72,13 +79,6 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>http://www.thisiscolossal.com/2015/12/carved-train-cindy-chinn/</link>
             <guid isPermaLink="false">38fd43c8-bee1-4e6a-b6fa-ea16f0045b9f</guid>
             <pubDate>Mon, 28 Dec 2015 17:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyperrealistic Oil Paintings of Haphazardly Wrapped Packages and Gifts by Yrjö Edelmann]]></title>
-            <description><![CDATA[<article><h1>Hyperrealistic Oil Paintings of Haphazardly Wrapped Packages and Gifts by Yrjö Edelmann</h1><p>The works of Yrjö Edelmann are so precise that they translate without question as photograph. Even with double, triple, and quadruple takes it is nearly impossible to imagine that the pieces have been produced from precisely placed oil paint. The objects Edelmann depicts are not perfectly wrappe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9e4f05229bf33198fdf5d5cccc5225e349ec645.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/2015/12/haphazard-presents-yrjo-edelmann/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+colossal+%28Colossal%29</link>
-            <guid isPermaLink="false">a16a0486-3c59-45b6-b2ca-d93c495bf3e5</guid>
-            <pubDate>Mon, 28 Dec 2015 17:28:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
