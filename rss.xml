@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 16:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 16:26:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rainyscope - ambient rain simulator]]></title>
+            <description><![CDATA[<article><h1>Rainyscope - ambient rain simulator</h1><p>Give you an easy creative boost, stay focused or just relax. Let the rain sing you a lullaby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d66822890f84a5efcb792de206fc39b554c377.jpg"></article>]]></description>
+            <link>http://rainyscope.com/#slide-2</link>
+            <guid isPermaLink="false">79bfdae7-a97b-4f93-ac6a-16f5cf24f783</guid>
+            <pubDate>Thu, 07 Jan 2016 16:26:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[r/LifeProTips]]></title>
@@ -72,13 +79,6 @@ Making a rough draft to quickly post up here on my grid site, not sure how much 
             <link>https://eyeondesign.aiga.org/can-meditation-make-you-a-better-graphic-designer/</link>
             <guid isPermaLink="false">78892ac5-757b-4110-b523-aeb8ea9e072a</guid>
             <pubDate>Mon, 04 Jan 2016 17:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning Front-End: A Manifesto]]></title>
-            <description><![CDATA[<article><h1>Learning Front-End: A Manifesto</h1><p>I'm often asked "How do I improve? There's so much to learn, but I haven't a clue which direction to go". This post offers advice and a targeted approach toward becoming a well formed Frontend Developer. Consider this your framework for future topics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7a46ea7e0d912002a05335d7f285d897c122b60.png"></article>]]></description>
-            <link>https://slack-files.com/T039R6A9M-F0A21J458-5a0ee45947</link>
-            <guid isPermaLink="false">3deb9d8e-d9bc-4721-a84a-bc9651f1d629</guid>
-            <pubDate>Tue, 29 Dec 2015 20:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
