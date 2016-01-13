@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 21:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 21:30:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Self-folding material helps the lazy with origami]]></title>
+            <description><![CDATA[<article><h1>Self-folding material helps the lazy with origami</h1><p>For the first time, scientists have developed a smart material that can be programmed multiple times to fold itself into complex shapes - without being melted down first. That means that a short flash of heat can trigger the rubbery polymer to fold itself into an origami bird and then into a boat, following another blast of heat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34abd81d5cba85cb3a24937bb109b3897ea8c4de.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/1/9/10738418/new-self-folding-origami-polymer-zhejiang-university</link>
+            <guid isPermaLink="false">41e875b4-4c58-4cae-85a9-dae3b297da65</guid>
+            <pubDate>Wed, 13 Jan 2016 21:29:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Rainyscope - ambient rain simulator</h1><p>Give you an easy creative boost, stay focused or just relax. Let the rain sing you a lullaby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75a7184342343d6a89a9693d38bd0aa9d7f026c9.jpg"></article>]]></description>
             <link>http://rainyscope.com/#slide-2</link>
             <guid isPermaLink="false">79bfdae7-a97b-4f93-ac6a-16f5cf24f783</guid>
-            <pubDate>Thu, 07 Jan 2016 16:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[r/LifeProTips]]></title>
-            <description><![CDATA[<article><h1>r/LifeProTips</h1><p>r/LifeProTips at reddit.com</p></article>]]></description>
-            <link>https://m.reddit.com/r/LifeProTips/comments/3zjgoh/lpt_request_how_to_consistently_improve_my_posture/</link>
-            <guid isPermaLink="false">234489c7-01ef-4c50-9e51-1d6bac811176</guid>
             <pubDate>Thu, 07 Jan 2016 16:26:01 GMT</pubDate>
         </item>
     </channel>
