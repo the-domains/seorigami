@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 13:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 13:43:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Copywriting principles that will make new users love you - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>Copywriting principles that will make new users love you - InVision Blog</h1><p>It doesn't matter if you've created a valuable product experience and a beautiful visual flow to help users get started. If you fill that flow with poor copywriting, your new users will get frustrated or bored-and they'll never come back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f65b2f8849b437b2349f8f869c30a57e8c28acd.gif"></article>]]></description>
+            <link>http://blog.invisionapp.com/copywriting-principles-new-users/</link>
+            <guid isPermaLink="false">758b3ce2-11fc-41bf-bea8-53106b6f5df4</guid>
+            <pubDate>Fri, 22 Jan 2016 13:42:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Set Up the Babel 6 Plugin in WebStorm]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://embed-ssl.wistia.com/deliveries/d49822ad9ed62b5ae33815c7e6041e54a69aabc9.jpg?image_crop_resized=174x100">]]></description>
             <link>https://thegrid.ai/seorigami/23c5a3c8-56d0-4d17-aa66-12029c3c2b28/index.html</link>
             <guid isPermaLink="false">23c5a3c8-56d0-4d17-aa66-12029c3c2b28</guid>
-            <pubDate>Wed, 13 Jan 2016 21:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Mental Shifts That Allowed Me to Become a Millionaire at 22]]></title>
-            <description><![CDATA[<article><h1>7 Mental Shifts That Allowed Me to Become a Millionaire at 22</h1><p>As of this writing, I'm 22. In the last 12 months I've generated a million dollars in commissions in one of the most competitive industries on the planet, where my average competitor is at least double my age with 10 times the tenure in the business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d850764d3841a321d6471333c8b6c3fcd4e1c15d.jpg"></article>]]></description>
-            <link>http://www.entrepreneur.com/article/252726?utm_source=HowTo&amp;utm_medium=site&amp;utm_campaign=iScroll</link>
-            <guid isPermaLink="false">d04a5a34-2284-4f61-a059-ec1a46f6b8dd</guid>
             <pubDate>Wed, 13 Jan 2016 21:29:20 GMT</pubDate>
         </item>
     </channel>
