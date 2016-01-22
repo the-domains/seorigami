@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 13:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 13:43:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Webmasters - Support, Learn, Connect & Search Console - Google]]></title>
+            <description><![CDATA[<article><h1>Google Webmasters - Support, Learn, Connect & Search Console - Google</h1><p>Track your site's search performance with Google Search Console and browse around for Google Webmasters support, learning and community resources.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0d3ec1a0247c27746ca2995490d9a1ba8a40a5c.jpg"></article>]]></description>
+            <link>https://www.google.com/webmasters/#?modal_active=none</link>
+            <guid isPermaLink="false">bec494fd-9e89-4c34-8e0c-8515b066d221</guid>
+            <pubDate>Fri, 22 Jan 2016 13:42:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Real-Talk SEO With Search Marketing Expert Tommy McDonald]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.behance.net/gallery/32555019/Character-Design-2015</link>
             <guid isPermaLink="false">aee2c8e6-b207-43ce-9396-8677ff7f7ae7</guid>
             <pubDate>Wed, 13 Jan 2016 21:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self-folding material helps the lazy with origami]]></title>
-            <description><![CDATA[<article><h1>Self-folding material helps the lazy with origami</h1><p>For the first time, scientists have developed a smart material that can be programmed multiple times to fold itself into complex shapes - without being melted down first. That means that a short flash of heat can trigger the rubbery polymer to fold itself into an origami bird and then into a boat, following another blast of heat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e11a076875db766bf74c7e6c64be92b0b89f1d27.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/1/9/10738418/new-self-folding-origami-polymer-zhejiang-university</link>
-            <guid isPermaLink="false">41e875b4-4c58-4cae-85a9-dae3b297da65</guid>
-            <pubDate>Wed, 13 Jan 2016 21:29:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
