@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 21:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 21:11:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -14,22 +14,15 @@
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to access hidden files via FTP filezilla | 123-reg Support]]></title>
-            <description><![CDATA[<article><h1>How to access hidden files via FTP filezilla | 123-reg Support</h1><p>Certain files are 'hidden' by default (such as .htaccess files). FTP clients differ in the menus used to alter settings to enable these files to be seen, but all work along the same principles. The following is a guide to showing those 'hidden files' when using FileZilla. Open FileZilla FTP client.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80bae60f79e0fdee337fd1b7340b1d508832fc7f.aspx"></article>]]></description>
-            <link>https://www.123-reg.co.uk/support/answers/Web-Hosting/Files-and-FTP/accessing-hidden-files-via-ftp-filezilla-4162/</link>
-            <guid isPermaLink="false">d6094980-43a0-4351-aaa7-a03047751447</guid>
-            <pubDate>Wed, 03 Feb 2016 21:10:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['This was all planned': Former IG says Hillary, State Dept. are lying]]></title>
-            <description><![CDATA[<article><h1>'This was all planned': Former IG says Hillary, State Dept. are lying</h1><p>The State Department is lying when it says it didn't know until it was too late that Hillary Clinton was improperly using personal e-mails and a private server to conduct official business - because it never set up an agency e-mail address for her in the first place, the department's former top watchdog says.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/378fbcdf374528dfc2177d67219361568ea52ebb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>'This was all planned': Former IG says Hillary, State Dept. are lying</h1><p>The State Department is lying when it says it didn't know until it was too late that Hillary Clinton was improperly using personal e-mails and a private server to conduct official business - because it never set up an agency e-mail address for her in the first place, the department's former top watchdog says.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e463a43977cc166dd80fc2c335a9e19a13cacee.jpg"></article>]]></description>
             <link>http://nypost.com/2016/01/31/this-was-all-planned-former-ig-says-hillary-state-dept-are-lying/</link>
             <guid isPermaLink="false">880038ff-4bb9-4f92-8cb6-b1b88e74cb87</guid>
             <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Style Guide Inspirations - Muzli -Design Inspiration]]></title>
-            <description><![CDATA[<article><h1>Style Guide Inspirations - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/810b6b6aef7211c892e8027d0d64161e027ea344.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Style Guide Inspirations - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/538f5e939585120a58beeaab799a8c95006233ac.jpg"></article>]]></description>
             <link>https://thegrid.ai/seorigami/style-guide-inspirations-muzli-design-inspiration/index.html</link>
             <guid isPermaLink="false">29bc8ece-02af-4450-a941-2a24b26cbca6</guid>
             <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>How To Do a Content Audit - Step-by-Step</h1><p>This is Inflow's process for doing content audits. It may not be the "best" way to do them every time, but we've managed to keep it fairly agile in terms of how you choose to analyze, interpret and make recommendations on the data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9738e7a0d179938a1d0e95beb9aeadee036483ec.jpg"></article>]]></description>
             <link>https://moz.com/blog/content-audit-tutorial</link>
             <guid isPermaLink="false">bafd3c36-7bf9-44d5-b29a-6d2975cd9627</guid>
+            <pubDate>Fri, 29 Jan 2016 23:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find Unclosed Tags - Unclosed Tag Checker - HTML5 - by Alicia Ramirez]]></title>
+            <description><![CDATA[<article><h1>Find Unclosed Tags - Unclosed Tag Checker - HTML5 - by Alicia Ramirez</h1><p>In HTML5, under certain circumstances, some closing tags are optional. If you leave those closing tags out, the W3C validator will not point them out, since they are technically not an error. Some people, though, may want to close all their tags anyway.</p></article>]]></description>
+            <link>http://www.aliciaramirez.com/closing-tags-checker/</link>
+            <guid isPermaLink="false">28999bb3-69a5-4a06-b535-d03ef3430b2d</guid>
             <pubDate>Fri, 29 Jan 2016 23:26:37 GMT</pubDate>
         </item>
     </channel>
