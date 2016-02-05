@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 21:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 21:15:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -12,6 +12,20 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advanced Search Form]]></title>
+            <description><![CDATA[<article><h1>Advanced Search Form</h1><p>A search form with advanced filtering options and quick link suggestions. Getting the search experience right is never an easy task. The starting point is always the search form, which, in most cases, consists only of an input field plus a submit button.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddf3b4e074fb984a1a231194c20a93ad87948012.png"></article>]]></description>
+            <link>https://codyhouse.co/gem/advanced-search-form/</link>
+            <guid isPermaLink="false">1cc5d2c5-6a62-47c0-a8a4-db749b016ce5</guid>
+            <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Adds JSON-LD Support For Structured Data Markup]]></title>
+            <description><![CDATA[<article><h1>Google Adds JSON-LD Support For Structured Data Markup</h1><p>Now you can use JSON-LD for your structured data markup for products and/or reviews rich snippets in Google. Also make sure to validate your markup, as Google is now enforcing requirements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba88855425a85c3b645ec64cb413fb16ac9ed47c.jpg"></article>]]></description>
+            <link>http://searchengineland.com/google-adds-json-ld-support-for-structured-data-markup-241777</link>
+            <guid isPermaLink="false">048dfbb2-4ca9-461b-a1f4-cb524b175f11</guid>
+            <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Style Guide Inspirations - Muzli -Design Inspiration</h1><p>via Muzli</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/810b6b6aef7211c892e8027d0d64161e027ea344.jpg"></article>]]></description>
             <link>https://thegrid.ai/seorigami/style-guide-inspirations-muzli-design-inspiration/index.html</link>
             <guid isPermaLink="false">29bc8ece-02af-4450-a941-2a24b26cbca6</guid>
-            <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla dealerships aim to play Michigan at its own game]]></title>
-            <description><![CDATA[<article><h1>Tesla dealerships aim to play Michigan at its own game</h1><p>Tesla, you see, wants to operate its own retail business in the same way that Apple and Samsung do, which seems reasonable enough. Unfortunately, the automotive sales world has been developing logic-defying rules to protect their interests for the better part of a century.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84adc3092f2458fa20cda41ccd60fa17d50a40ea.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/02/02/tesla-michigan-dealership/</link>
-            <guid isPermaLink="false">c9363acb-8623-4d38-9d55-4c4ec7ec3f0a</guid>
-            <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Updates The General Guidelines Section Of Their Webmaster Guidelines]]></title>
-            <description><![CDATA[<article><h1>Google Updates The General Guidelines Section Of Their Webmaster Guidelines</h1><p>Google has quietly updated their Webmaster Guidelines document, which is one of the first places webmasters should go when learning about SEO best practices and dos and don'ts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce75ecd0b2ab314e44a137775f5ba454b0bcd984.jpg"></article>]]></description>
-            <link>http://searchengineland.com/google-updates-the-general-guidelines-section-of-their-webmaster-guidelines-241236</link>
-            <guid isPermaLink="false">75d5f2a3-ec47-4a5f-a346-97a490170bf8</guid>
             <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
         </item>
     </channel>
