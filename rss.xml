@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 21:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 21:15:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google Adds JSON-LD Support For Structured Data Markup]]></title>
+            <description><![CDATA[<article><h1>Google Adds JSON-LD Support For Structured Data Markup</h1><p>Now you can use JSON-LD for your structured data markup for products and/or reviews rich snippets in Google. Also make sure to validate your markup, as Google is now enforcing requirements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba88855425a85c3b645ec64cb413fb16ac9ed47c.jpg"></article>]]></description>
+            <link>http://searchengineland.com/google-adds-json-ld-support-for-structured-data-markup-241777</link>
+            <guid isPermaLink="false">048dfbb2-4ca9-461b-a1f4-cb524b175f11</guid>
+            <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.cloudways.com/blog/wp-content/uploads/world-infographic-2.jpg">]]></description>
+            <link>https://thegrid.ai/seorigami/88ef43d6-2d46-4cf6-84f1-73a2da1dc72e/index.html</link>
+            <guid isPermaLink="false">88ef43d6-2d46-4cf6-84f1-73a2da1dc72e</guid>
+            <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Advanced Search Form | CodyHouse]]></title>
-            <description><![CDATA[<article><h1>Advanced Search Form | CodyHouse</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd87bb9ceb1ab5c2a109a207de38f4ee1388fcda.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Advanced Search Form | CodyHouse</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37c19cf9155d50b2a48b69cde2737460d677489.png"></article>]]></description>
             <link>https://codyhouse.co/demo/advanced-search-form/index.html#0</link>
             <guid isPermaLink="false">870d8ccd-5163-49b5-8ca4-af53e67db3b8</guid>
             <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.engadget.com/2016/02/02/tesla-michigan-dealership/</link>
             <guid isPermaLink="false">c9363acb-8623-4d38-9d55-4c4ec7ec3f0a</guid>
             <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Updates The General Guidelines Section Of Their Webmaster Guidelines]]></title>
-            <description><![CDATA[<article><h1>Google Updates The General Guidelines Section Of Their Webmaster Guidelines</h1><p>Google has quietly updated their Webmaster Guidelines document, which is one of the first places webmasters should go when learning about SEO best practices and dos and don'ts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce75ecd0b2ab314e44a137775f5ba454b0bcd984.jpg"></article>]]></description>
-            <link>http://searchengineland.com/google-updates-the-general-guidelines-section-of-their-webmaster-guidelines-241236</link>
-            <guid isPermaLink="false">75d5f2a3-ec47-4a5f-a346-97a490170bf8</guid>
-            <pubDate>Wed, 03 Feb 2016 21:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search Update Impact On SEO & Content Strategies: Staying Ahead With A Focus On Quality]]></title>
-            <description><![CDATA[<article><h1>Search Update Impact On SEO & Content Strategies: Staying Ahead With A Focus On Quality</h1><p>Since Google was first launched in 1998, the company has been continually refining its search algorithm to better match users with online content. Over the years, many algorithm updates have targeted spammy and low-quality content in an effort to surface this content less frequently in search results.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a64e41bb2ec3c645bcbe9e938421f6020ca21e25.jpg"></article>]]></description>
-            <link>http://searchengineland.com/search-update-impact-on-seo-content-strategies-240558</link>
-            <guid isPermaLink="false">30f75342-7994-46f7-acfd-6d67dcd23252</guid>
-            <pubDate>Fri, 29 Jan 2016 23:26:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
