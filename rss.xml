@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 16:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 16:19:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[16 Web & Graphic Design Trends To Watch In 2016]]></title>
@@ -12,6 +12,20 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Angular 2 versus React: There Will Be Blood - Free Code Camp]]></title>
+            <description><![CDATA[<article><h1>Angular 2 versus React: There Will Be Blood - Free Code Camp</h1><p>Angular 2 has reached Beta and appears poised to become the hot new framework of 2016. It's time for a showdown. Let's see how it stacks up against 2015's darling: React. Disclaimer: I enjoyed working in Angular 1 but switched to React in 2015.</p><img src="https://cdn-images-2.medium.com/max/1200/1*ivDnyMP63YJBBGKCNyRUzQ.png"></article>]]></description>
+            <link>https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.yhjvwf2cd</link>
+            <guid isPermaLink="false">27d5e1dd-dbb0-458d-80a8-8eaf526c85ff</guid>
+            <pubDate>Tue, 23 Feb 2016 16:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the Robin Hood of Science | Big Think]]></title>
+            <description><![CDATA[<article><h1>Meet the Robin Hood of Science | Big Think</h1><p>The tale of how one researcher has made nearly every scientific paper ever published available for free to anyone, anywhere in the world. On the evening of November 9th, 1989, the Cold War came to a dramatic end with the fall of the Berlin Wall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c02dc52bd5261f33d72522ce9df14c3654643e1.jpg"></article>]]></description>
+            <link>http://bigthink.com/neurobonkers/a-pirate-bay-for-science?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Facebook</link>
+            <guid isPermaLink="false">8ffedebb-901e-40bb-a5b0-24d71a849c47</guid>
+            <pubDate>Tue, 23 Feb 2016 16:18:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Feds Pouring Money Into a Project to Create a Database to Track "Suspicious" Internet Memes]]></title>
@@ -61,20 +75,6 @@
             <link>https://codyhouse.co/demo/advanced-search-form/index.html#0</link>
             <guid isPermaLink="false">870d8ccd-5163-49b5-8ca4-af53e67db3b8</guid>
             <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CubeSats Are Cheap Enough to Launch Crowd Sourced UFO-Spotting Sats]]></title>
-            <description><![CDATA[<article><h1>CubeSats Are Cheap Enough to Launch Crowd Sourced UFO-Spotting Sats</h1><p>CubeSats offer the chance for unprecedented access to space at a low cost. Low enough, indeed, that a group of UFO researchers were able to crowdsource the funds on IndieGoGo to launch their own UFO-hunting satellite into low-Earth orbit. It all started on IndieGoGo with the CubeSat 4 Disclosure project, led by Vancouver-based UFO researcher David Cote.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7020575f4546ccbc8bd9630d5d78216a084a9851.jpg"></article>]]></description>
-            <link>http://www.popularmechanics.com/space/a19310/cubesats-are-cheap-enough-to-launch-crowd-sourced-ufo-spotting-sats/</link>
-            <guid isPermaLink="false">c4eb0fb9-adcf-4ce3-978d-6682599df461</guid>
-            <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search Update Impact On SEO & Content Strategies: Staying Ahead With A Focus On Quality]]></title>
-            <description><![CDATA[<article><h1>Search Update Impact On SEO & Content Strategies: Staying Ahead With A Focus On Quality</h1><p>Since Google was first launched in 1998, the company has been continually refining its search algorithm to better match users with online content. Over the years, many algorithm updates have targeted spammy and low-quality content in an effort to surface this content less frequently in search results.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a64e41bb2ec3c645bcbe9e938421f6020ca21e25.jpg"></article>]]></description>
-            <link>http://searchengineland.com/search-update-impact-on-seo-content-strategies-240558</link>
-            <guid isPermaLink="false">4037a35d-f29a-4bbf-9b21-65aacacd5dd6</guid>
-            <pubDate>Wed, 03 Feb 2016 21:10:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
