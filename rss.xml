@@ -4,11 +4,11 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 16:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 00:31:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
-            <description><![CDATA[<article><h1>Frontend Web Developer  for Hire</h1><p>Need a web developer with 3+ years of experience, focus in SEO, and proven results? Check me out! </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02cafb2d-edd2-4e45-9f08-dd643e4bbfee.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Frontend Web Developer  for Hire</h1><p>The grid doesn't accept .pdf yet so take this super huge .png instead. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/031c09b215a3e3ae2d0583889db447e73fc062b9.png"></article>]]></description>
             <link>https://thegrid.ai/seorigami/frontend-web-developer-for-hire/index.html</link>
             <guid isPermaLink="false">3002dd60-aef7-40b4-9157-e0aade42e75a</guid>
             <pubDate>Tue, 23 Feb 2016 16:33:03 GMT</pubDate>
@@ -19,6 +19,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Array.prototype.map()]]></title>
+            <description><![CDATA[<article><h1>Array.prototype.map()</h1><p>The map() method creates a new array with the results of calling a provided function on every element in this array. Function that produces an element of the new Array, taking three arguments: currentValue The current element being processed in the array. The index of the current element being processed in the array.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58fa2cd2a175000e223fd7c0b7cd2fd3bd06f436.png"></article>]]></description>
+            <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map</link>
+            <guid isPermaLink="false">fdd29851-c49f-45d1-8e3b-64d15b861619</guid>
+            <pubDate>Wed, 24 Feb 2016 00:30:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understand Javascript Array Reduce in 1 Minute]]></title>
@@ -64,16 +71,9 @@
         </item>
         <item>
             <title><![CDATA[Advanced Search Form]]></title>
-            <description><![CDATA[<article><h1>Advanced Search Form</h1><p>A search form with advanced filtering options and quick link suggestions. Getting the search experience right is never an easy task. The starting point is always the search form, which, in most cases, consists only of an input field plus a submit button.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddf3b4e074fb984a1a231194c20a93ad87948012.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Advanced Search Form</h1><p>A search form with advanced filtering options and quick link suggestions. Getting the search experience right is never an easy task. The starting point is always the search form, which, in most cases, consists only of an input field plus a submit button.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0036497767ba5f25b685296ac4135a6f27f6da96.png"></article>]]></description>
             <link>https://codyhouse.co/gem/advanced-search-form/</link>
             <guid isPermaLink="false">1cc5d2c5-6a62-47c0-a8a4-db749b016ce5</guid>
-            <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Adds JSON-LD Support For Structured Data Markup]]></title>
-            <description><![CDATA[<article><h1>Google Adds JSON-LD Support For Structured Data Markup</h1><p>Now you can use JSON-LD for your structured data markup for products and/or reviews rich snippets in Google. Also make sure to validate your markup, as Google is now enforcing requirements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd11a36e0d8d7406e5d7ce45d739d812967b27ef.jpg"></article>]]></description>
-            <link>http://searchengineland.com/google-adds-json-ld-support-for-structured-data-markup-241777</link>
-            <guid isPermaLink="false">048dfbb2-4ca9-461b-a1f4-cb524b175f11</guid>
             <pubDate>Fri, 05 Feb 2016 21:14:25 GMT</pubDate>
         </item>
     </channel>
