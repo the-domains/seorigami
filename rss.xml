@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 21:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 21:38:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
@@ -19,6 +19,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Easy for editors, and a developer's dream cms]]></title>
+            <description><![CDATA[<article><h1>Easy for editors, and a developer's dream cms</h1><p>Bolt is an open source Content Management Tool, which strives to be as simple and straightforward as possible. It is quick to set up, easy to configure, uses elegant templates, and above all: It's a joy to use. Open source Responsive Community-driven Create all you need.</p><img src="https://bolt.cm/thumbs/606x400r/2014-12/featureimg_twig.png"></article>]]></description>
+            <link>https://bolt.cm/</link>
+            <guid isPermaLink="false">753581c0-fa6f-4949-b798-34289ca714c6</guid>
+            <pubDate>Thu, 25 Feb 2016 21:36:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pattern Lab]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>joepie91's Ramblings</h1><p>This article is meant to be an introduction to functional programming in Javascript - specifically, it will explain the map, filter and reduce methods. While these are natively available in any recent browser and in Node.js, most articles on them are far too technical to understand, while the concept of these functions is actually really simple, and will benefit any developer - even those working on simple scripts.</p></article>]]></description>
             <link>http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/</link>
             <guid isPermaLink="false">73b6e756-5c2c-49ef-b5b6-41caabab0666</guid>
-            <pubDate>Tue, 23 Feb 2016 16:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trademark Court's Impossible Order: Uber Told To Change Google Search Results]]></title>
-            <description><![CDATA[<article><h1>Trademark Court's Impossible Order: Uber Told To Change Google Search Results</h1><p>In yet another case that illustrates the challenges the legal system faces with the internet, a Florida judge has ordered Uber, the international ride sharing service, to ensure that when someone in Gainesville, Florida, searches on "Uber Gainesville" (or something similar), a local company called Uber Promotions isn't preempted by the larger entity in search results.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0680c6b1acf50015ba080c033ba417f56c800fae.jpg"></article>]]></description>
-            <link>http://searchengineland.com/impossible-court-orders-uber-to-control-google-results-in-trademark-dispute-242848</link>
-            <guid isPermaLink="false">57bd1f34-f90e-4b97-9e84-7204c32d16bb</guid>
             <pubDate>Tue, 23 Feb 2016 16:18:38 GMT</pubDate>
         </item>
     </channel>
