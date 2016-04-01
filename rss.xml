@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 00:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 00:30:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
@@ -19,6 +19,20 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Gentle Introduction to Functional JavaScript: Part 1]]></title>
+            <description><![CDATA[<article><h1>A Gentle Introduction to Functional JavaScript: Part 1</h1><p>This is part one of a three four-part series introducing 'functional' programming in JavaScript. In this article we take a look at the building blocks that make JavaScript a 'functional' language, and examine why that might be useful. What is all the hype about Functional JavaScript? And why is it called functional?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f97afc1bfa98a6d63f8cab0b7cfa83ef6d629b7f.jpg"></article>]]></description>
+            <link>http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/</link>
+            <guid isPermaLink="false">d63f42d8-e9ee-4398-ab9e-169c1a9b84b7</guid>
+            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Apple wrapped a span around the word &quot;click&quot; to apply more generous letter spacing&comma; so it doesn&apos;t look like &quot;dick&period;&quot;" src="https://pbs.twimg.com/media/Cb6y3RLWwAA7vWs.png:large">]]></description>
+            <link>https://twitter.com/bathtype/status/702195255869837313</link>
+            <guid isPermaLink="false">b34779db-bd2a-499c-ae9f-bf591059ae84</guid>
+            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The true story behind the "Donald Drumpf" accusation * /r/The_Donald]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.designernews.co/</link>
             <guid isPermaLink="false">39d27b3f-0cbf-4a24-975b-6c0c9d1a6eee</guid>
             <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Easy for editors, and a developer's dream cms]]></title>
-            <description><![CDATA[<article><h1>Easy for editors, and a developer's dream cms</h1><p>Bolt is an open source Content Management Tool, which strives to be as simple and straightforward as possible. It is quick to set up, easy to configure, uses elegant templates, and above all: It's a joy to use. Open source Responsive Community-driven Create all you need.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/353dfc3e32df75dce6574ac8d30e35caf4560553.png"></article>]]></description>
-            <link>https://bolt.cm/</link>
-            <guid isPermaLink="false">753581c0-fa6f-4949-b798-34289ca714c6</guid>
-            <pubDate>Thu, 25 Feb 2016 21:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pattern Lab]]></title>
-            <description><![CDATA[<article><h1>Pattern Lab</h1><p>Atoms Molecules Organisms Templates Pages Pattern Lab is a collection of tools to help you create atomic design systems. At its core, Pattern Lab is a custom static site generator that constructs an interface by stitching atoms, molecules, and organisms together to form templates and pages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cc65418238469c3d734710db6799a6b812f02a6.jpg"></article>]]></description>
-            <link>http://patternlab.io/</link>
-            <guid isPermaLink="false">261b7228-fe6a-4fb4-adf7-8ddcc97f0f0d</guid>
-            <pubDate>Thu, 25 Feb 2016 21:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
