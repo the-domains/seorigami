@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 12:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 12:07:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
@@ -19,6 +19,34 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mgenev/how-to-sane]]></title>
+            <description><![CDATA[<article><h1>mgenev/how-to-sane</h1><p>how-to-sane - A demonstration of how to use the SANE stack</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7251753a43339672023da44f1d233ed49afebe2d.jpg"></article>]]></description>
+            <link>https://github.com/mgenev/how-to-sane</link>
+            <guid isPermaLink="false">237361a7-b435-4551-b56f-61e98a284dea</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Discover Meteor]]></title>
+            <description><![CDATA[<article><h1>Introducing Discover Meteor</h1><p>A quick 1 min intro to the Discover Meteor book (http://www.discovermeteor.com)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09287608e3da1697b7dd700d2c59227f845770af.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jMP0OiMSM9Q</link>
+            <guid isPermaLink="false">4aaa71fd-0cbb-4fc2-aeba-57f444ad70eb</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How an Internet Mapping Glitch Turned a Random Kansas Farm Into a Digital Hell]]></title>
+            <description><![CDATA[<article><h1>How an Internet Mapping Glitch Turned a Random Kansas Farm Into a Digital Hell</h1><p>An hour's drive from Wichita, Kansas, in a little town called Potwin, there is a 360-acre piece of land with a very big problem. The plot has been owned by the Vogelman family for more than a hundred years, though the current owner, Joyce Taylor née Vogelman, 82, now rents it out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5756ccc2c7b9bcc551d2b4e187123d41d9e082b2.png"></article>]]></description>
+            <link>http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/</link>
+            <guid isPermaLink="false">c7976b57-f187-4f1e-9f6f-93ec72c88baf</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sails.js | Realtime MVC Framework for Node.js]]></title>
+            <description><![CDATA[<article><h1>Sails.js | Realtime MVC Framework for Node.js</h1><p>Sails.js makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app development. It's especially good for building realtime features like chat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e0de2206795115bc36ff9e01fc9c261b63758b8.png"></article>]]></description>
+            <link>http://sailsjs.org/</link>
+            <guid isPermaLink="false">503146b2-032e-47ad-a5f0-a33d6be7076a</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sane Stack]]></title>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>A Gentle Introduction to Functional JavaScript: Part 1</h1><p>This is part one of a three four-part series introducing 'functional' programming in JavaScript. In this article we take a look at the building blocks that make JavaScript a 'functional' language, and examine why that might be useful. What is all the hype about Functional JavaScript? And why is it called functional?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f97afc1bfa98a6d63f8cab0b7cfa83ef6d629b7f.jpg"></article>]]></description>
             <link>http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/</link>
             <guid isPermaLink="false">d63f42d8-e9ee-4398-ab9e-169c1a9b84b7</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Apple wrapped a span around the word &quot;click&quot; to apply more generous letter spacing&comma; so it doesn&apos;t look like &quot;dick&period;&quot;" src="https://pbs.twimg.com/media/Cb6y3RLWwAA7vWs.png:large">]]></description>
-            <link>https://twitter.com/bathtype/status/702195255869837313</link>
-            <guid isPermaLink="false">b34779db-bd2a-499c-ae9f-bf591059ae84</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The true story behind the "Donald Drumpf" accusation * /r/The_Donald]]></title>
-            <description><![CDATA[<article><h1>The true story behind the "Donald Drumpf" accusation * /r/The_Donald</h1><p>Yesterday there was a segment about Donald Trump on the last week tonight show by john olliver. While, of course, the entire content of the show...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c81d8081acaac1ab58deee80db6bd8497ba346.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/The_Donald/comments/48a3y0/the_true_story_behind_the_donald_drumpf_accusation/</link>
-            <guid isPermaLink="false">1f998278-7dd7-478d-8fcc-c37a49f5f637</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Splendid Tilt-Shift Photography]]></title>
-            <description><![CDATA[<article><h1>Splendid Tilt-Shift Photography</h1><p>Some while ago we've featured great examples of tilt-shift photography and today we're featuring more, splendid pictures showing this beautiful technique.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa3d43818be9c28c8410967bb4b27a6f8d64a7f6.jpg"></article>]]></description>
-            <link>http://abduzeedo.com/splendid-tilt-shift-photography?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+abduzeedo+%28Abduzeedo+Feed%29</link>
-            <guid isPermaLink="false">dc3e4a56-3f0d-45a0-badb-2f9243b32405</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[AMA Request] John Oliver * /r/IAmA]]></title>
-            <description><![CDATA[<article><h1>[AMA Request] John Oliver * /r/IAmA</h1><p>After John Oliver took on Donald Trump in yesterday's episode of Last Week Tonight, I think it's time for another AMA request. 1. How do you...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a66ca76abee12d2013bf694ea63247d9e3aae1.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/IAmA/comments/48c8s1/ama_request_john_oliver/</link>
-            <guid isPermaLink="false">3942682b-ec40-48ec-85a7-af401229ebf0</guid>
             <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
         </item>
     </channel>
