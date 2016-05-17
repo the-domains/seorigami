@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 12:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 12:07:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
@@ -21,10 +21,31 @@
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Apple wrapped a span around the word &quot;click&quot; to apply more generous letter spacing&comma; so it doesn&apos;t look like &quot;dick&period;&quot;" src="https://pbs.twimg.com/media/Cb6y3RLWwAA7vWs.png:large">]]></description>
+            <link>https://twitter.com/bathtype/status/702195255869837313</link>
+            <guid isPermaLink="false">1652ab3c-dcb8-4249-b5f9-57fc16113608</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tutorial - Getting Started With Node.js, Express, MongoDB | Christopher Buecheler - Web, Writing, Cocktails and More]]></title>
+            <description><![CDATA[<article><h1>Tutorial - Getting Started With Node.js, Express, MongoDB | Christopher Buecheler - Web, Writing, Cocktails and More</h1><p>LAST UPDATED: September 2nd, 2015This tutorial uses Node.js v0.12 and will not work properly with older versions on some systems. You can find/fork the entire sample project on GitHub Hey! This and all my other tutorials will soon be moving to a new home at CloseBrace, a site for JavaScript developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0a7fdb63501a65188035a6aa198d87da776904.png"></article>]]></description>
+            <link>http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/#comment-1626635302</link>
+            <guid isPermaLink="false">0ac05bc2-593a-45b3-ae08-d075afce60ca</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[mgenev/how-to-sane]]></title>
             <description><![CDATA[<article><h1>mgenev/how-to-sane</h1><p>how-to-sane - A demonstration of how to use the SANE stack</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7251753a43339672023da44f1d233ed49afebe2d.jpg"></article>]]></description>
             <link>https://github.com/mgenev/how-to-sane</link>
             <guid isPermaLink="false">237361a7-b435-4551-b56f-61e98a284dea</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Discover Meteor]]></title>
+            <description><![CDATA[<article><h1>Introducing Discover Meteor</h1><p>A quick 1 min intro to the Discover Meteor book (http://www.discovermeteor.com)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09287608e3da1697b7dd700d2c59227f845770af.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jMP0OiMSM9Q</link>
+            <guid isPermaLink="false">4aaa71fd-0cbb-4fc2-aeba-57f444ad70eb</guid>
             <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
         </item>
         <item>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/seorigami/managing-style-guides-at-shyp-shyp-design/index.html</link>
             <guid isPermaLink="false">d0dbbf4d-05d4-412a-b0b7-3f5bb818d41c</guid>
             <pubDate>Fri, 01 Apr 2016 00:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AA009 - The secret art of the follow up email by The Action Army]]></title>
-            <description><![CDATA[<article><h1>AA009 - The secret art of the follow up email by The Action Army</h1><p>This is one of the most elusive, but important business tips you will hear today. Sending follow up emails has proven to be one of the best ways to get people to take action when you want them to do something (like pay you money for your stuff).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9338f0c4afc3404961613caf1fb171e1af76c1b.jpg"></article>]]></description>
-            <link>https://soundcloud.com/actionarmy/aa009?ref=producthunt</link>
-            <guid isPermaLink="false">d36e04a9-0dca-4b62-9a14-368db6334f35</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Gentle Introduction to Functional JavaScript: Part 1]]></title>
-            <description><![CDATA[<article><h1>A Gentle Introduction to Functional JavaScript: Part 1</h1><p>This is part one of a three four-part series introducing 'functional' programming in JavaScript. In this article we take a look at the building blocks that make JavaScript a 'functional' language, and examine why that might be useful. What is all the hype about Functional JavaScript? And why is it called functional?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f97afc1bfa98a6d63f8cab0b7cfa83ef6d629b7f.jpg"></article>]]></description>
-            <link>http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/</link>
-            <guid isPermaLink="false">d63f42d8-e9ee-4398-ab9e-169c1a9b84b7</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Apple wrapped a span around the word &quot;click&quot; to apply more generous letter spacing&comma; so it doesn&apos;t look like &quot;dick&period;&quot;" src="https://pbs.twimg.com/media/Cb6y3RLWwAA7vWs.png:large">]]></description>
-            <link>https://twitter.com/bathtype/status/702195255869837313</link>
-            <guid isPermaLink="false">b34779db-bd2a-499c-ae9f-bf591059ae84</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
