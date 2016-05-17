@@ -4,11 +4,11 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 00:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 12:07:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
-            <description><![CDATA[<article><h1>Frontend Web Developer  for Hire</h1><p>The grid doesn't accept .pdf yet so take this super huge .png instead. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/031c09b215a3e3ae2d0583889db447e73fc062b9.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02cafb2d-edd2-4e45-9f08-dd643e4bbfee.png">]]></description>
             <link>https://thegrid.ai/seorigami/frontend-web-developer-for-hire/index.html</link>
             <guid isPermaLink="false">3002dd60-aef7-40b4-9157-e0aade42e75a</guid>
             <pubDate>Tue, 23 Feb 2016 16:33:03 GMT</pubDate>
@@ -19,6 +19,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sane Stack]]></title>
+            <description><![CDATA[<article><h1>Sane Stack</h1><p>The JS Fullstack to get you instantly productive.</p></article>]]></description>
+            <link>http://sanestack.com/</link>
+            <guid isPermaLink="false">34d73d9e-1445-41da-8e6f-b636ff33439d</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Managing Style Guides at Shyp - Shyp Design]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>[AMA Request] John Oliver * /r/IAmA</h1><p>After John Oliver took on Donald Trump in yesterday's episode of Last Week Tonight, I think it's time for another AMA request. 1. How do you...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a66ca76abee12d2013bf694ea63247d9e3aae1.jpg"></article>]]></description>
             <link>https://www.reddit.com/r/IAmA/comments/48c8s1/ama_request_john_oliver/</link>
             <guid isPermaLink="false">3942682b-ec40-48ec-85a7-af401229ebf0</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now we know: Here are Google's top 3 search ranking factors]]></title>
-            <description><![CDATA[<article><h1>Now we know: Here are Google's top 3 search ranking factors</h1><p>Wondering what factors help you rank better on Google? For the first time, we have a top three list: links, content and RankBrain. We knew last year that RankBrain was said by Google to be the third most important ranking factor, but Google refused to say what the first two were.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f0fbfd5bfae54f71ae409ea7f9bd0711f05c55c.jpg"></article>]]></description>
-            <link>http://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882</link>
-            <guid isPermaLink="false">b26250d3-e2c6-4d7d-b53f-3cfb4839deb6</guid>
             <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
         </item>
     </channel>
