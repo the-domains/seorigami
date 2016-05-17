@@ -21,6 +21,13 @@
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why web beginners should start with Meteor]]></title>
+            <description><![CDATA[<article><h1>Why web beginners should start with Meteor</h1><p>I recently had the delight of watching a web development beginner try Meteor for the first time. Using the Discover Meteor book, she wrote and deployed her first live web app in a matter of hours, after months of playing around in Codecademy on evenings and weekends.</p></article>]]></description>
+            <link>http://info.meteor.com/blog/why-web-beginners-should-start-with-meteor</link>
+            <guid isPermaLink="false">a99e6cf9-810d-42ef-9067-1078fe7e0c68</guid>
+            <pubDate>Tue, 17 May 2016 12:06:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Apple wrapped a span around the word &quot;click&quot; to apply more generous letter spacing&comma; so it doesn&apos;t look like &quot;dick&period;&quot;" src="https://pbs.twimg.com/media/Cb6y3RLWwAA7vWs.png:large">]]></description>
             <link>https://twitter.com/bathtype/status/702195255869837313</link>
@@ -68,13 +75,6 @@
             <link>http://sanestack.com/</link>
             <guid isPermaLink="false">34d73d9e-1445-41da-8e6f-b636ff33439d</guid>
             <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Managing Style Guides at Shyp - Shyp Design]]></title>
-            <description><![CDATA[<article><h1>Managing Style Guides at Shyp - Shyp Design</h1><p>How we use Github for design collaboration When we rebranded Shyp last year, there were three of us collaborating on the product design. As we worked, we implemented a style guide that could help us maintain a consistent aesthetic between designers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2dae57e08b8d339170d08933659742468723309.png"></article>]]></description>
-            <link>https://thegrid.ai/seorigami/managing-style-guides-at-shyp-shyp-design/index.html</link>
-            <guid isPermaLink="false">d0dbbf4d-05d4-412a-b0b7-3f5bb818d41c</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
