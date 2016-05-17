@@ -4,7 +4,7 @@
         <description><![CDATA[SEOrigami]]></description>
         <link>https://thegrid.ai/seorigami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 12:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 12:07:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seorigami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Frontend Web Developer  for Hire]]></title>
@@ -19,6 +19,13 @@
             <link>https://medium.com/@VisualErnesto/16-web-graphic-design-trends-to-watch-in-2016-bd0b30c9e475#.ldivya5qc</link>
             <guid isPermaLink="false">60ada7e2-0d06-4541-b4a4-65138790b626</guid>
             <pubDate>Fri, 18 Dec 2015 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mgenev/how-to-sane]]></title>
+            <description><![CDATA[<article><h1>mgenev/how-to-sane</h1><p>how-to-sane - A demonstration of how to use the SANE stack</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7251753a43339672023da44f1d233ed49afebe2d.jpg"></article>]]></description>
+            <link>https://github.com/mgenev/how-to-sane</link>
+            <guid isPermaLink="false">237361a7-b435-4551-b56f-61e98a284dea</guid>
+            <pubDate>Tue, 17 May 2016 12:06:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How an Internet Mapping Glitch Turned a Random Kansas Farm Into a Digital Hell]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="Apple wrapped a span around the word &quot;click&quot; to apply more generous letter spacing&comma; so it doesn&apos;t look like &quot;dick&period;&quot;" src="https://pbs.twimg.com/media/Cb6y3RLWwAA7vWs.png:large">]]></description>
             <link>https://twitter.com/bathtype/status/702195255869837313</link>
             <guid isPermaLink="false">b34779db-bd2a-499c-ae9f-bf591059ae84</guid>
-            <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The true story behind the "Donald Drumpf" accusation * /r/The_Donald]]></title>
-            <description><![CDATA[<article><h1>The true story behind the "Donald Drumpf" accusation * /r/The_Donald</h1><p>Yesterday there was a segment about Donald Trump on the last week tonight show by john olliver. While, of course, the entire content of the show...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1c81d8081acaac1ab58deee80db6bd8497ba346.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/The_Donald/comments/48a3y0/the_true_story_behind_the_donald_drumpf_accusation/</link>
-            <guid isPermaLink="false">1f998278-7dd7-478d-8fcc-c37a49f5f637</guid>
             <pubDate>Fri, 01 Apr 2016 00:29:26 GMT</pubDate>
         </item>
     </channel>
